@@ -1,0 +1,345 @@
+﻿---
+layout: reference
+---
+<style>
+    #body-container {
+        margin-top: 0px;
+    }
+
+    .details-body h1 {
+        margin-top: 0px;
+    }
+</style>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.2/photoswipe-ui-default.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.2/photoswipe.min.js"></script>
+
+<div class="carousel slide details-carousel kenburns" data-ride="carousel">
+    <div class="banner-container">
+        <h1 class="banner">{{ page.title | escape }}</h1>
+        <div class="banner-subtitle">Crocodylus niloticus</div>
+        <div class="banner-tools">
+            <div class="love favourite" title="Favourite this article"><svg style="width:24px;height:24px" viewBox="0 0 24 24" class=""><path d="M12,21.35L10.55,20.03C5.4,15.36 2,12.27 2,8.5C2,5.41 4.42,3 7.5,3C9.24,3 10.91,3.81 12,5.08C13.09,3.81 14.76,3 16.5,3C19.58,3 22,5.41 22,8.5C22,12.27 18.6,15.36 13.45,20.03L12,21.35Z"></path></svg></div>
+            <div class="share" title="Share this article"><svg width="24px" height="24px" viewBox="0 0 48 48" class=""><path d="M36 32.17c-1.52 0-2.89.59-3.93 1.54L17.82 25.4c.11-.45.18-.92.18-1.4s-.07-.95-.18-1.4l14.1-8.23c1.07 1 2.5 1.62 4.08 1.62 3.31 0 6-2.69 6-6s-2.69-6-6-6-6 2.69-6 6c0 .48.07.95.18 1.4l-14.1 8.23c-1.07-1-2.5-1.62-4.08-1.62-3.31 0-6 2.69-6 6s2.69 6 6 6c1.58 0 3.01-.62 4.08-1.62l14.25 8.31c-.1.42-.16.86-.16 1.31 0 3.22 2.61 5.83 5.83 5.83s5.83-2.61 5.83-5.83-2.61-5.83-5.83-5.83z"></path></svg></div>
+        </div>
+    </div>
+    <ol class="carousel-indicators">
+        <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+        <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+        <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+    </ol>
+    <div class="carousel-inner">
+        <div class="carousel-item bg-50pc active" style="background-image: url('/images/Nile_Crocodile.jpg');"></div>
+        <div class="carousel-item bg-50pc" style="background-image: url('/images/amphibians-hero.jpg');"></div>
+        <div class="carousel-item bg-50pc" style="background-image: url('/images/birds-hero.jpg');"></div>
+    </div>
+</div>
+
+<!--<section class="py-5 bg-image-full bg-50pc" style="background-image: url('images/Nile_Crocodile.jpg');">
+    <div class="banner-container">
+        <h1 class="banner">Nile Crocodile</h1>
+        <div class="banner-subtitle">Crocodylus niloticus</div>
+        <div class="banner-tools">
+            <div class="love favourite" title="Favourite this article"><svg style="width:24px;height:24px" viewBox="0 0 24 24" class=""><path d="M12,21.35L10.55,20.03C5.4,15.36 2,12.27 2,8.5C2,5.41 4.42,3 7.5,3C9.24,3 10.91,3.81 12,5.08C13.09,3.81 14.76,3 16.5,3C19.58,3 22,5.41 22,8.5C22,12.27 18.6,15.36 13.45,20.03L12,21.35Z"></path></svg></div>
+            <div class="share" title="Share this article"><svg width="24px" height="24px" viewBox="0 0 48 48" class=""><path d="M36 32.17c-1.52 0-2.89.59-3.93 1.54L17.82 25.4c.11-.45.18-.92.18-1.4s-.07-.95-.18-1.4l14.1-8.23c1.07 1 2.5 1.62 4.08 1.62 3.31 0 6-2.69 6-6s-2.69-6-6-6-6 2.69-6 6c0 .48.07.95.18 1.4l-14.1 8.23c-1.07-1-2.5-1.62-4.08-1.62-3.31 0-6 2.69-6 6s2.69 6 6 6c1.58 0 3.01-.62 4.08-1.62l14.25 8.31c-.1.42-.16.86-.16 1.31 0 3.22 2.61 5.83 5.83 5.83s5.83-2.61 5.83-5.83-2.61-5.83-5.83-5.83z"></path></svg></div>
+        </div>
+    </div>
+</section>-->
+
+<div class="fast-facts-bg">
+    <div class="container mt-0">
+        <div class="row">
+            <div class="col-4 d-none d-lg-block">
+                <div class="at-a-glance">
+                    <h3>Fast Facts</h3>
+                    <p><span>DISTRIBUTION:</span>Africa</p>
+                    <div><img src="/images/distribution-nile-crocodile.png" /></div>
+                </div>
+            </div>
+            <div id="fast-facts" class="col-7 col-lg-5">
+                <p><span>Common Name:</span>Nile Crocodile</p>
+                <p><span>SCIENTIFIC NAME:</span><i>Crocodylus niloticus</i></p>
+                <p><span>TYPE:</span>Reptile</p>
+                <p><span>DIET:</span>Insects, Mammals, Birds</p>
+                <p><span>AVERAGE LIFE SPAN IN THE WILD:</span>45 years</p>
+                <p><span>SIZE:</span>16 ft</p>
+                <p><span>WEIGHT:</span>500 lbs - 220 Kg</p>
+            </div>
+            <div class="col-5 col-lg-3">
+                <div class="at-a-glance">
+                    <h5>Red List Status:</h5>
+                    <div class="red-list-symbol">EN</div>
+                    <div class="red-list-status">Critically Endangered</div>
+                    <div class="size-reference">SIZE REFERENCE:</div>
+                    <div><img src="/images/size-nile-crocodile.png" /></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="container mt-5">
+    <div class="row">
+        <div class="col-12 col-lg-8 content">
+
+            <div id="body-container" class="details-body">
+                <div class="small-header mb-1"><a href="#">Reptiles &#8674;</a></div>
+                <h1>ABOUT THE NILE CROCODILE</h1>
+
+                {{ content }}
+
+                <!-- Photo Grid -->
+                <section class="d-print-none">
+                    <h4 id="images">Nile Crocodile Images</h4>
+                    <p>
+                        <div class="flex">
+                            <div class="flex-4by3" style="background-image: url(https://unsplash.it/600/553?random)"></div>
+                            <div class="flex-1by1" style="background-image: url(https://unsplash.it/400/300?random)"></div>
+                            <div class="flex-2by1" style="background-image: url(https://unsplash.it/200/100?random)"></div>
+                            <div class="flex-1by2" style="background-image: url(https://unsplash.it/400/300?random)"></div>
+                            <div class="flex-2by1" style="background-image: url(https://unsplash.it/400/400?random)"></div>
+                            <div class="flex-3by4" style="background-image: url(https://unsplash.it/200/200?random)"></div>
+                            <div class="flex-3by4" style="background-image: url(https://unsplash.it/400/200?random)"></div>
+                            <div class="flex-3by4" style="background-image: url(https://unsplash.it/200/400?random)"></div>
+                            <div class="flex-1by2" style="background-image: url(https://unsplash.it/200/500?random)"></div>
+                            <div class="flex-2by1" style="background-image: url(https://unsplash.it/300/300?random)"></div>
+                            <div class="flex-1by1" style="background-image: url(https://unsplash.it/200/200?random)"></div>
+                        </div>
+                    </p>
+                </section>
+
+                <section class="d-print-none">
+                    <h4 id="additional_reading">Additional Reading</h4>
+                    <p>
+                        <ul class="additional_reading">
+                            <li><a target="_blank" href="https://www.amazon.com/Africa-2012-BBC-David-Attenborough/dp/B00AKIPA52"><img src="https://images-na.ssl-images-amazon.com/images/I/91hgns3JeuL._AC_UL320_SR226,320_.jpg" /><div class="item_title">Africa (2012/BBC)</div><div class="item_author">David Attenborough</div></a></li>
+                            <li><a target="_blank" href="https://www.amazon.com/Planet-Earth-II-n/dp/B01LTHYIC8"><img src="https://images-na.ssl-images-amazon.com/images/I/817WNwCZHvL._AC_UL320_SR224,320_.jpg" /><div class="item_title">Planet Earth II</div><div class="item_author">BBC</div></a></a></li>
+                            <li><a target="_blank" href="https://www.amazon.com/Planet-Six-Disc-Special-Narrated-Attenborough/dp/B005C9YZIM"><img src="https://images-na.ssl-images-amazon.com/images/I/91yNaIH3SiL._AC_UL320_SR250,320_.jpg" /><div class="item_title">Platen Earth</div><div class="item_author">BBC</div></a></a></li>
+                            <li><a target="_blank" href="https://www.amazon.com/Madagascar-Various/dp/B004PHSTWK"><img src="https://images-na.ssl-images-amazon.com/images/I/91oIVkciwmL._AC_UL320_SR226,320_.jpg" /><div class="item_title">Madagascar</div><div class="item_author">David Attenborough</div></a></a></li>
+                            <li><a target="_blank" href="https://www.amazon.com/Africa-2012-BBC-David-Attenborough/dp/B00AKIPA52"><img src="https://images-na.ssl-images-amazon.com/images/I/91hgns3JeuL._AC_UL320_SR226,320_.jpg" /><div class="item_title">Africa (2012/BBC)</div><div class="item_author">David Attenborough</div></a></li>
+                        </ul>
+                    </p>
+                </section>
+
+                <section>
+                    <h4 id="references">References</h4>
+                    <p>
+                        <ol class="references">
+                            <li><span class="reference-text"><cite class="citation web">Ritchison, Gary. <a rel="nofollow" class="external text" href="http://people.eku.edu/ritchisong/birdrespiration.html">"Ornithology (Bio 554/754):Bird Respiratory System"</a>. Eastern Kentucky University<span class="reference-accessdate">. Retrieved <span class="nowrap">2007-06-27</span></span>.</cite></span></li>
+                            <li><span class="reference-text"><cite class="citation journal">Gier, H. T. (1952). <a rel="nofollow" class="external text" href="https://sora.unm.edu/sites/default/files/journals/auk/v069n01/p0040-p0049.pdf">"The air sacs of the loon"</a> <span style="font-size:85%;">(PDF)</span>. <i>Auk</i>. American Ornithologists' Union. <b>69</b>: 40-49. <span class="reference-accessdate">. Retrieved <span class="nowrap">2014-01-21</span></span>.</cite></span></li>
+                            <li><span class="reference-text"><cite class="citation journal">Smith, Nathan D. (2011). "BODY MASS AND FORAGING ECOLOGY PREDICT EVOLUTIONARY PATTERNS OF SKELETAL PNEUMATICITY IN THE DIVERSE "WATERBIRD" CLADE". <i>Evolution</i>. <b>66</b>: 1059–1078.</cite></span></li>
+                            <li><span class="reference-text"><cite class="citation book">Fastovsky, David E.; Weishampel, David B. (2005). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=M8nt10bkovIC&pg=PA304&lpg=PA304&dq=pneumatic+bones+loons&source=bl&ots=5WMByHpBYo&sig=GrFrFAW8k56BsSfCgrHsMxfGEiI&hl=en&sa=X&ei=GM7eUqO1IOf07Aa48oCIBg&ved=0CC8Q6AEwAA#v=onepage&q=pneumatic%20bones%20loons&f=false"><i>The Evolution and Extinction of the Dinosaurs</i></a> (second ed.). Cambridge, New York, Melbourne, Madrid, Cape Town, Singapore, Sao Paulo: Cambridge University Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&nbsp;<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-01-21</span></span>.</cite></span></li>
+                        </ol>
+                    </p>
+                </section>
+
+            </div>
+        </div>
+
+
+        <!-- SIDEBAR -->
+        <div class="col-12 col-lg-4 d-none d-lg-block d-print-none">
+            <div class="small-header mb-1">Tools</div>
+            <div class="article-tools">
+                <a href="#"><span title="Download PDF of this article"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="24" height="24" viewBox="0 0 24 24"><path d="M14,9H19.5L14,3.5V9M7,2H15L21,8V20A2,2 0 0,1 19,22H7C5.89,22 5,21.1 5,20V4A2,2 0 0,1 7,2M11.93,12.44C12.34,13.34 12.86,14.08 13.46,14.59L13.87,14.91C13,15.07 11.8,15.35 10.53,15.84V15.84L10.42,15.88L10.92,14.84C11.37,13.97 11.7,13.18 11.93,12.44M18.41,16.25C18.59,16.07 18.68,15.84 18.69,15.59C18.72,15.39 18.67,15.2 18.57,15.04C18.28,14.57 17.53,14.35 16.29,14.35L15,14.42L14.13,13.84C13.5,13.32 12.93,12.41 12.53,11.28L12.57,11.14C12.9,9.81 13.21,8.2 12.55,7.54C12.39,7.38 12.17,7.3 11.94,7.3H11.7C11.33,7.3 11,7.69 10.91,8.07C10.54,9.4 10.76,10.13 11.13,11.34V11.35C10.88,12.23 10.56,13.25 10.05,14.28L9.09,16.08L8.2,16.57C7,17.32 6.43,18.16 6.32,18.69C6.28,18.88 6.3,19.05 6.37,19.23L6.4,19.28L6.88,19.59L7.32,19.7C8.13,19.7 9.05,18.75 10.29,16.63L10.47,16.56C11.5,16.23 12.78,16 14.5,15.81C15.53,16.32 16.74,16.55 17.5,16.55C17.94,16.55 18.24,16.44 18.41,16.25M18,15.54L18.09,15.65C18.08,15.75 18.05,15.76 18,15.78H17.96L17.77,15.8C17.31,15.8 16.6,15.61 15.87,15.29C15.96,15.19 16,15.19 16.1,15.19C17.5,15.19 17.9,15.44 18,15.54M8.83,17C8.18,18.19 7.59,18.85 7.14,19C7.19,18.62 7.64,17.96 8.35,17.31L8.83,17M11.85,10.09C11.62,9.19 11.61,8.46 11.78,8.04L11.85,7.92L12,7.97C12.17,8.21 12.19,8.53 12.09,9.07L12.06,9.23L11.9,10.05L11.85,10.09Z" /></svg></span></a>
+                <a href="#"><span title="View all images"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="24" height="24" viewBox="0 0 24 24"><path d="M13,9H18.5L13,3.5V9M6,2H14L20,8V20A2,2 0 0,1 18,22H6C4.89,22 4,21.1 4,20V4C4,2.89 4.89,2 6,2M6,20H15L18,20V12L14,16L12,14L6,20M8,9A2,2 0 0,0 6,11A2,2 0 0,0 8,13A2,2 0 0,0 10,11A2,2 0 0,0 8,9Z" /></svg></span></a>
+                <a href="#"><span title="Print Article"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="24" height="24" viewBox="0 0 24 24"><path d="M18,3H6V7H18M19,12A1,1 0 0,1 18,11A1,1 0 0,1 19,10A1,1 0 0,1 20,11A1,1 0 0,1 19,12M16,19H8V14H16M19,8H5A3,3 0 0,0 2,11V17H6V21H18V17H22V11A3,3 0 0,0 19,8Z" /></svg></span></a>
+                <a href="#"><span title="Cite this article"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="24" height="24" viewBox="0 0 24 24"><path d="M17,3A2,2 0 0,1 19,5V21L12,18L5,21V5C5,3.89 5.9,3 7,3H17M11,14L17.25,7.76L15.84,6.34L11,11.18L8.41,8.59L7,10L11,14Z" /></svg></span></a>
+            </div>
+
+            <div class="sticky-sidebar mt-2">
+                <div class="small-header mb-1">Contents</div>
+                <ul>
+                    <li><a href="#introduction">Introduction</a></li>
+                    <li><a href="#etymology">Etymology</a></li>
+                    <li><a href="#taxonomy">Taxonomy</a></li>
+                    <li><a href="#feared_and_worshipped">Feared and Worshipped</a></li>
+                    <li><a href="#images">Nile Crocodile Images</a></li>
+                    <li><a href="#additional_reading">Additional Reading</a></li>
+                    <li><a href="#references">References</a></li>
+                </ul>
+                <span class="up-arrow">&#8673;</span> <a href="#body-container" class="back-to-top">Back to top</a>
+            </div>
+        </div>
+    </div> <!-- row -->
+</div> <!-- container -->
+
+
+
+<div class="feature-extra mt-5 pt-5 d-print-none">
+    <div class="container">
+        <div class="row">
+            <div class="col-12 col-lg-12 content">
+
+                <div>
+                    <section>
+                        <div class="small-header">Feature</div>
+                        <h4>Bird Bones - Strong, light and full of air</h4>
+                        <p>
+                            A bird's skeleton is lightweight, which helps to keep its body weight low for flying. In fact, many birds have feathers that weigh more than their skeleton. The skeleton is largely composed of hollow bones with inner strengthening struts, as shown in this magnified picture on the left of the inner composition of a bird bone.
+                            <a href="#">Read more about a birds skeleton &#187;</a>
+                        </p>
+                        <img src="/images/bird-skelleton.jpg" style="max-width:100%" />
+                    </section>
+
+                </div>
+            </div>
+        </div> <!-- row -->
+    </div> <!-- container -->
+</div>
+
+
+
+<div class="feature-highlights mb-5 pt-5 d-print-none">
+    <div class="container">
+
+
+        <div class="mb-3">
+            <h5 class="heading">Additional Articles</h5>
+            <div class="sub-heading">Browse some of our trending articles</div>
+        </div>
+
+        <div class="row cards">
+            <div class="col">
+                <a href="/details.cshtml">
+                    <div class="card overlay-card text-white">
+                        <div class="card-full-img" style="background-image: url(/images/category-plants.jpg)"></div>
+                        <div class="card-img-overlay">
+                            <h5 class="card-title">Card title</h5>
+                            <p class="card-text">This is a wider card</p>
+                        </div>
+                    </div>
+                </a>
+            </div>
+            <div class="col">
+                <a href="/details.cshtml">
+                    <div class="card overlay-card text-white">
+                        <div class="card-full-img" style="background-image: url(/images/category-dinosaurs.jpg)"></div>
+                        <div class="card-img-overlay">
+                            <h5 class="card-title">Dinosaurs</h5>
+                            <p class="card-text">This is a wider card</p>
+                        </div>
+                    </div>
+                </a>
+            </div>
+            <div class="col">
+                <a href="/details.cshtml">
+                    <div class="card overlay-card text-white">
+                        <div class="card-full-img" style="background-image: url(/images/category-aminals.jpg)"></div>
+                        <div class="card-img-overlay">
+                            <h5 class="card-title">Animals</h5>
+                            <p class="card-text">This is a wider card</p>
+                        </div>
+                    </div>
+                </a>
+            </div>
+
+        </div>
+
+    </div>
+</div>
+
+
+
+<!-- Root element of PhotoSwipe. Must have class pswp. -->
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+    <!-- Background of PhotoSwipe.
+         It's a separate element as animating opacity is faster than rgba(). -->
+    <div class="pswp__bg"></div>
+
+    <!-- Slides wrapper with overflow:hidden. -->
+    <div class="pswp__scroll-wrap">
+
+        <!-- Container that holds slides.
+            PhotoSwipe keeps only 3 of them in the DOM to save memory.
+            Don't modify these 3 pswp__item elements, data is added later on. -->
+        <div class="pswp__container">
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+        </div>
+
+        <!-- Default (PhotoSwipeUI_Default) interface on top of sliding area. Can be changed. -->
+        <div class="pswp__ui pswp__ui--hidden">
+
+            <div class="pswp__top-bar">
+
+                <!--  Controls are self-explanatory. Order can be changed. -->
+
+                <div class="pswp__counter"></div>
+
+                <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+
+                <button class="pswp__button pswp__button--share" title="Share"></button>
+
+                <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+
+                <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+
+                <!-- Preloader demo http://codepen.io/dimsemenov/pen/yyBWoR -->
+                <!-- element will get class pswp__preloader--active when preloader is running -->
+                <div class="pswp__preloader">
+                    <div class="pswp__preloader__icn">
+                        <div class="pswp__preloader__cut">
+                            <div class="pswp__preloader__donut"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+                <div class="pswp__share-tooltip"></div>
+            </div>
+
+            <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)"></button>
+
+            <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)"></button>
+
+            <div class="pswp__caption">
+                <div class="pswp__caption__center"></div>
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+
+<script>
+
+    function scrollNav() {
+        $('.sticky-sidebar a').click(function () {
+            $('html, body').stop().animate({
+                scrollTop: $($(this).attr('href')).offset().top - 75
+            }, 400);
+            return false;
+        });
+        $('.scrollTop a').scrollTop();
+    }
+
+    scrollNav();
+
+    var openPhotoSwipe = function (options) {
+        var pswpElement = document.querySelectorAll('.pswp')[0];
+        var items = [];
+        $("figure").each(function () {
+            var anchr = $(this).find('a');
+            var size = anchr.data('size').split('x');
+            imgsrc = anchr.attr('href');
+            imgwidth = size[0];
+            imgheight = size[1];
+            title = $(this).find('figcaption').html();
+            var item = { src: imgsrc, w: imgwidth, h: imgheight, title: title };
+            items.push(item);
+        });
+        var gallery = new PhotoSwipe(pswpElement, PhotoSwipeUI_Default, items, options);
+        gallery.init();
+    };
+    $("figure.picture a").click(function () {
+        var index = $("figure.picture a").index(this);
+        var options = {history: false,focus: false,index: index};
+        openPhotoSwipe(options);
+        return false;
+    });
+</script>
