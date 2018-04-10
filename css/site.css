@@ -391,6 +391,10 @@ h1.banner {
     color: #e9a253;
 }
 
+.sticky-sidebar ul:first-of-type {
+    margin-bottom: 0px;
+}
+
 .sticky-sidebar .up-arrow {
     color: #e9a253;
     margin-right: 10px;
