@@ -1,14 +1,13 @@
 ---
-layout: details
-title: Nile Crocodile
-common_name: Nile Crocodile
-scientific_name: Crocodylus niloticus
-type: Reptile
-diet: Insects, Mammals, Birds
-lifespan: 45 years
-size: 16 ft
-weight: 500 lbs - 220 Kg
-distribution: Africa
+title: 
+common_name: 
+scientific_name: 
+type: Invertebrate
+diet: 
+lifespan: 
+size: 
+weight: 
+distribution: 
 ---
 
 #### Introduction
