@@ -1,5 +1,5 @@
 ---
-layout: details
+layout: animal
 title: Nile Crocodile
 common_name: Nile Crocodile
 scientific_name: Crocodylus niloticus
