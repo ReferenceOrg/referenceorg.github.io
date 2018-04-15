@@ -11,7 +11,7 @@ layout: reference
 
 {% assign header_img_count = 0  %}
 {% for image in page.article_images %}
-    {% if image.image_type == 'header' %}
+    {% if image.image_type == 'content_and_header' %}
         {% assign header_img_count = header_img_count | plus: 1 %}
     {% endif %}
 {% endfor %}
@@ -29,7 +29,7 @@ layout: reference
     <ol class="carousel-indicators">
         {% assign lcount = 0  %}
         {% for image in page.article_images %}
-            {% if image.image_type == 'header' %}
+            {% if image.image_type == 'content_and_header' %}
                 <li data-slide-to="{% increment imgcount %}" {% if lcount == 0 %}class="active"{% endif %}></li>
                 {% assign lcount = lcount | plus: 1 %}
             {% endif %}
@@ -38,7 +38,7 @@ layout: reference
     <div class="carousel-inner">
         {% assign loopcount = 0  %}
         {% for image in page.article_images %}
-            {% if image.image_type == 'header' %}
+            {% if image.image_type == 'content_and_header' %}
                 <div class="carousel-item bg-50pc {% if loopcount == 0 %}active{% endif %}" style="background-image: url('/images/{{ image.image_large }}');"></div>
                 {% assign loopcount = loopcount | plus: 1 %}
             {% endif %}
