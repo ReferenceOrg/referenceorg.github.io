@@ -14,7 +14,13 @@ article_images:
   image_thumb: peacock-thumb.jpg
   image_small: peacock-720w.jpg
   image_large: peacock-1920w.jpg
-  image_type: header
+  image_type: content_only
+- caption: Bird 1
+  credit: Credits for bird
+  image_thumb: bird-thumb.jpg
+  image_small: bird-720w.jpg
+  image_large: bird-1920w.jpg
+  image_type: content_only
 ---
 
 #### Introduction
