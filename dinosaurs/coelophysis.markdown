@@ -22,6 +22,18 @@ article_images:
   image_small: bird-720w.jpg
   image_large: bird-1920w.jpg
   image_type: content_only
+- image_thumb: croc-3-thumb.jpg
+  image_small: croc-3-720w.jpg
+  image_large: croc-3-1920w.jpg
+  image_type: header
+- image_thumb: croc-2-thumb.jpg
+  image_small: croc-2-720w.jpg
+  image_large: croc-2-1920w.jpg
+  image_type: header
+- image_thumb: croc-1-thumb.jpg
+  image_small: croc-1-720w.jpg
+  image_large: croc-1-1920w.jpg
+  image_type: header
 ---
 
 #### Introduction
