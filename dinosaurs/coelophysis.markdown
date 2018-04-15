@@ -1,5 +1,4 @@
 ---
-layout: details
 title: Nile Crocodile
 common_name: Nile Crocodile
 scientific_name: Crocodylus niloticus
@@ -9,6 +8,13 @@ lifespan: 45 years
 size: 16 ft
 weight: 500 lbs - 220 Kg
 distribution: Africa
+article_images:
+- caption: Peacock Image 1
+  credit: ShutterStock
+  image_thumb: peacock-thumb.jpg
+  image_small: peacock-720w.jpg
+  image_large: peacock-1920w.jpg
+  image_type: header
 ---
 
 #### Introduction
