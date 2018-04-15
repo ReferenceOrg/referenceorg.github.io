@@ -10,30 +10,24 @@ size: 16 ft
 weight: 500 lbs - 220 Kg
 distribution: Africa
 article_images:
-- caption: Peacock Image 1
-  credit: ShutterStock
-  image_thumb: peacock-thumb.jpg
+- image_thumb: peacock-thumb.jpg
   image_small: peacock-720w.jpg
   image_large: peacock-1920w.jpg
-  image_type: content_only
-- caption: Bird 1
-  credit: Credits for bird
-  image_thumb: bird-thumb.jpg
+- image_thumb: bird-thumb.jpg
   image_small: bird-720w.jpg
   image_large: bird-1920w.jpg
-  image_type: content_only
 - image_thumb: croc-3-thumb.jpg
   image_small: croc-3-720w.jpg
   image_large: croc-3-1920w.jpg
-  image_type: header
+  image_type: content_only
 - image_thumb: croc-2-thumb.jpg
   image_small: croc-2-720w.jpg
   image_large: croc-2-1920w.jpg
-  image_type: header
+  image_type: content_only
 - image_thumb: croc-1-thumb.jpg
   image_small: croc-1-720w.jpg
   image_large: croc-1-1920w.jpg
-  image_type: header
+  image_type: content_only
 ---
 
 #### Introduction
