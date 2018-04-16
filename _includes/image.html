@@ -6,8 +6,6 @@
         {% comment %} Get Large Image Height From File Name for PhotSwipe As That JS Requires Image Dimensions. Image width Is Always 1920px {% endcomment %}
         {% assign lrg_img_dims = figure_image.image_large | split: '-1920w' %}
         {% assign lrg_img_height = lrg_img_dims[1] | replace: 'h.jpg', '' %}
-
-
     {% endif %}
 {% endfor %}
 <figure class="picture">

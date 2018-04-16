@@ -464,6 +464,17 @@ padding: 20px;
     max-width: 100%;
 }
 
+div#body-content > p:last-of-type::after {
+    background-color: #ec993e;
+    content: '';
+    display: inline-block;
+    height: 12px;
+    margin-left: 8px;
+    margin-bottom: 2px;
+    width: 12px;
+    vertical-align: middle;    
+}
+
 .size-reference {
     font-weight: 800;
     text-transform: uppercase;
