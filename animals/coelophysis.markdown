@@ -33,6 +33,8 @@ Coelophysis (Greek for “hollow form”), small, meat-eating, early dinosaur th
 
 In December 1880 American dinosaur-fossil-hunter David Baldwin discovered a few fragmented bones in a dried-up river bed near Ghost Ranch, New Mexico. In 1947 and again in 1980 the site was reopened and many complete skeletons were found. Paleontologists estimate that several thousand dinosaur fossils have yet to be excavated from this site.
 
+{% include image.html img="/images/croc-1-thumb.jpg" title="Crocodile!!!" caption="This is a crocodile" %}
+
 It is unusual to find so many meat-eating dinosaur fossils together. Unlike plant-eaters, which tend to live and travel in herds, most meat-eaters are solitary or travel in small packs. Coelophysis probably died from drowning in a flash flood or from becoming stuck in a mud trap. Fragmentary bones found associated with the ribcages of two adult Coelophysis in the mass grave were once thought to be evidence of live birth rather than egg laying. Later, researchers interpreted the fragments as evidence of cannibalism and an indication that meat-eating dinosaurs sometimes ate their own kind. However, a new, more detailed study of the fossils announced in 2006 found no evidence of cannibalism. In one case the bone fragments in the ribcage apparently come from a small crocodile-like animal that the adult Coelophysis ate before it died. The bones found with the other adult dinosaur actually lie under its skeleton and not inside its stomach region, and thus were not part of a last meal. The covered-over remains include the leg of a young Coelophysis and parts of an unidentified type of reptile. 
 
 #### Evidence
