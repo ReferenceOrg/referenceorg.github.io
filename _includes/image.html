@@ -1,13 +1,23 @@
-## _includes/image.html
-<div class="image-wrapper" >
-  {% if include.url %}
-  <a href="{{ include.url }}" title="{{ include.title }}" target="_blank">
-  {% endif %}
-      <img src="{{ site.url }}/{{ include.img }}" alt="{{ include.title }}"/>
-  {% if include.url %}
-  </a>
-  {% endif %}
-  {% if include.caption %}
-      <p class="image-caption">{{ include.caption }}</p>
-  {% endif %}
-</div>
+
+{% assign image_no = include.image_no %}
+{% for image in include.images %}
+    {% if forloop.index == image_no %}
+        {% assign figure_image = image %}
+        {% comment %} Get Large Image Height From File Name for PhotSwipe As That JS Requires Image Dimensions. Image width Is Always 1920px {% endcomment %}
+        {% assign lrg_img_dims = figure_image.image_large | split: '-1920w' %}
+        {% assign lrg_img_height = lrg_img_dims[1] | replace: 'h.jpg', '' %}
+
+
+    {% endif %}
+{% endfor %}
+<figure class="picture">
+    <a href="/images/{{ figure_image.image_large }}" itemprop="contentUrl" data-size="1920x{{ lrg_img_height }}">
+        <img src="/images/{{ figure_image.image_small }}" itemprop="thumbnail" alt="{{ figure_image.caption }}" style="{{ include.css }}">
+    </a>
+    <figcaption class="caption">
+        {% if figure_image.caption %}
+        <span class="image-caption">{{ figure_image.caption }}</span>
+        <span class="credit-intro">Photo:</span><span class="credit-value">{{ figure_image.credit }}</span>
+        {% endif %}
+    </figcaption>
+</figure>
