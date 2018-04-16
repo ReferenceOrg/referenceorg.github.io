@@ -9,6 +9,7 @@ lifespan: 45 years
 size: 16 ft
 weight: 500 lbs - 220 Kg
 distribution: Africa
+red_list_status: Least Concern
 article_images:
 - image_thumb: croc-3-thumb.jpg
   image_small: croc-3-720w.jpg
