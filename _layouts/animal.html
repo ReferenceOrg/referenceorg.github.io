@@ -80,7 +80,17 @@ layout: reference
             <div class="col-5 col-lg-3">
                 <div class="at-a-glance">
                     <h5>Red List Status:</h5>
-                    <div class="red-list-symbol">EN</div>
+                    <div class="red-list-symbol">
+                        {% case page.red_list_status %}
+                        {% when 'Extinct' %}EX
+                        {% when 'Extinct in the Wild' %}EW
+                        {% when 'Critically Endangered' %}CR
+                        {% when 'Endangered' %}EN
+                        {% when 'Vulnerable' %}VU
+                        {% when 'Near Threatened' %}NT
+                        {% when 'Least Concern' %}LC
+                        {% endcase %}
+                    </div>
                     <div class="red-list-status">{{ page.red_list_status }}</div>
                     <div class="size-reference">SIZE REFERENCE:</div>
                     <div><img src="/images/size-nile-crocodile.png" /></div>
