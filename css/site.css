@@ -402,6 +402,10 @@ h1.banner {
     font-weight: bold;
 }
 
+#bg-image-full, .details-carousel {
+    background-color: #636363;
+}
+
 .fast-facts-bg {
 background-color: #000;
 color: #fff;
