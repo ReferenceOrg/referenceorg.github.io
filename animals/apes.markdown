@@ -5,6 +5,37 @@ common_name: Apes
 scientific_name: Hominidae
 type: Mammal
 red_list_status: Least Concern
+article_images:
+- image_thumb: shutterstock_357636785-thumb.jpg
+  image_small: shutterstock_357636785-720w.jpg
+  image_large: tmpC169-1920w1332h
+- image_thumb: tmp7C81-thumb.jpg
+  image_small: tmp7C81-720w.jpg
+  image_large: tmp7C81-1920w1332h
+- image_thumb: tmpB84E-thumb.jpg
+  image_small: tmpB84E-720w.jpg
+  image_large: tmpB84E-1920w1464h
+- image_thumb: tmpE4FD-thumb.jpg
+  image_small: tmpE4FD-720w.jpg
+  image_large: tmpE4FD-1920w1385h.jpg
+- image_thumb: tmp6BAE-thumb.jpg
+  image_small: tmp6BAE-720w.jpg
+  image_large: tmp6BAE-1920w1282h.jpg
+- image_thumb: tmp34DB-thumb.jpg
+  image_small: tmp34DB-720w.jpg
+  image_large: tmp34DB-1920w1537h.jpg
+- image_thumb: tmp345F-thumb.jpg
+  image_small: tmp345F-720w.jpg
+  image_large: tmp345F-1920w1280h.jpg
+- image_thumb: tmp125-thumb.jpg
+  image_small: tmp125-720w.jpg
+  image_large: tmp125-1920w1281h.jpg
+- image_thumb: tmp25CA-thumb.jpg
+  image_small: tmp25CA-720w.jpg
+  image_large: tmp25CA-1920w1280h.jpg
+- image_thumb: tmp4625-thumb.jpg
+  image_small: tmp4625-720w.jpg
+  image_large: tmp4625-1920w1829h.jpg
 ---
 
 ### Introduction
