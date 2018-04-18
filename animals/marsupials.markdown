@@ -13,7 +13,7 @@ Marsupial, common name for a group of mammals typically distinguished by a pouch
 
 Depending on the classification system used, scientists have identified between 260 and 280 species of marsupials, which are further grouped into about 16 families. Most marsupial species are found in Australia and New Zealand, although many live in parts of South America, and one species—the Virginia opossum—is found in some regions of North America.
 
-### DISTINGUISHING CHARACTERISTICS 
+### Distinguishing Characteristics
 
 All marsupials share reproductive traits that distinguish them from other mammals. For example, the uterus, the organ in which the female carries her young, is divided into left and right compartments. The female has two vaginas, or openings, one leading to each compartment. The male penis usually is two-pronged, which enables the male to place one prong in each of the female’s vaginas during mating.
 
@@ -25,13 +25,13 @@ The number of young vary among marsupial species, with, for example, kangaroos g
 
 Several other features distinguish marsupials from other mammals. For example, the marsupial brain is smaller than the brain of placental mammals of similar size. In addition, marsupial brains lack a corpus callosum, a brain structure found in placental mammals that permits nerve communication between the left and right hemispheres of the brain. Marsupials have between 40 and 50 teeth; humans, in comparison, have only 32 teeth and elephants a mere 6, including their two tusks. Also different from other mammals are the marsupium bones, present in both male and female marsupials. Not found in other mammals, these bones project from the pelvic bones and may serve to strengthen the wall of the abdomen.
 
-### FEEDING AND SOCIAL BEHAVIOR 
+### Feeding and Social Behavior
 
 Smell and hearing are important senses to marsupials because these creatures are primarily nocturnal, or active only at night. Depending on species and habitat, marsupials may be primarily plant eaters, insect eaters, or meat eaters. Some marsupials are omnivores, eating almost anything.
 
 Most marsupials are solitary animals. However, kangaroos and wallabies may be found in groups numbering from two to about ten members, depending on the size of the animals, their habitat, and other factors. The whiptail wallaby gathers into large mobs of up to 50 individuals. To mark their territory or communicate their desire to mate, marsupials primarily use scent from their skin glands, urine, or feces. Some arboreal (tree-dwelling) species also communicate vocally. Marsupials do not form male-female bonds that extend beyond the time necessary for mating, and the female cares exclusively for the young.
 
-### EVOLUTION OF MARSUPIALS
+### Evolution of Marsupials
 
 Scientists have long been interested in the evolutionary history of marsupials. A fossil found in China is thought to be an early ancestor of marsupials and dates from 125 million years ago. Called Sinodelphys, it was about the size of a chipmunk and climbed trees. This primitive marsupial shares many features with living marsupials and suggests that marsupials may have originated in Asia, spread to North America, and later migrated to present-day South America. This migration eventually took them to Antarctica and Australia, which were united on the ancient landmass Gondwanaland. In 1982 scientists identified the only fossil of a land-dwelling mammal ever found in Antarctica as a marsupial that lived there about 40 million years ago. This discovery confirmed the migration of marsupials from South America, where marsupial fossils date from 65 million years ago, to Antarctica, and to their final destination of Australia, where marsupial fossils date from about 25 million years ago.
 

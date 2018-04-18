@@ -17,13 +17,13 @@ The great apes include the gorilla, the orangutan, and two species of chimpanzee
 
 From physical and fossil evidence, biologists know that apes and humans share a common ancestry. In recent years, biochemical analysis has shown just how close this link is—chimpanzees and humans differ significantly in only 2 percent of their genes. This evidence suggests that they diverged from a common ancestor around five to seven million years ago. 
 
-### RANGE AND HABITAT
+### Range and Habitat
 
 The gorilla, the common chimpanzee, and the bonobo live in dense tropical forests on the African continent. Chimpanzees also inhabit wooded savanna, where there are more opportunities for foraging out in the open. Most gorillas live in the hot, lowland forests of west and central Africa, but a subspecies called the mountain gorilla lives in a very different habitat. Its range extends as high as 3400 m (11,200 ft) on the cool, mist-covered slopes of the Virunga Mountains.
 
 The gibbons and orangutans inhabit Southeast Asia. Gibbons live in rain forests and seasonal forests of India, Indochina, and the Malay Archipelago. The orangutan is purely a rain forest animal. Today its range is restricted to two large islands—Sumatra and Borneo—but fossils show that it once had a far greater range, reaching as far north as China.
 
-### PHYSICAL CHARACTERISTICS
+### Physical Characteristics
 
 With their long limbs and opposable thumbs, apes are well adapted to a tree-climbing life. The smallest gibbons stand just 44 cm (17 in) tall and weigh just 4.5 kg (10 lb)—light enough to swing from the highest, smallest branches. Great apes are considerably larger, particularly male gorillas, which can be as tall as 1.8 m (about 6 ft) and weigh up to a quarter ton, making them by far the largest apes alive today. Male and female gibbons are usually similar in size, but in great apes, the sexes can differ greatly. Male orangutans, for example, often weigh more than twice as much as females.
 
@@ -45,7 +45,7 @@ Most apes breed throughout the year. Male and female orangutans come together on
 
 Female apes usually give birth to just a single young after a gestation period ranging from seven to nine months. Succeeding births normally occur only after the previous infant has been weaned. This process—like all aspects of ape development—takes a remarkable length of time. A gibbon is weaned by the age of about 2 years, while chimps take more than 4 years. Like young monkeys, young apes are carried by their mothers. They either cling to the mother's belly or, in the case of older chimps, ride on her back. In great apes, infant care is largely the job of the females, while in some gibbons the mother hands over responsibility to the father when the infant gibbon's first year is complete.
 
-### ENDANGERED APES
+### Endangered Apes
 
 Like nearly all rain forest animals, ape populations have been harmed by deforestation. Some also face additional threats. Most vulnerable of all is the mountain gorilla, which has recently been extensively hunted by starving people ravaged by war. Today just a few hundred of these animals are left, and their future looks uncertain.
 

@@ -16,7 +16,7 @@ Sailors have long considered the presence of dolphins cruising alongside the bow
 
 Dolphins throughout the world are threatened by habitat destruction and pollution. Many cultures have hunted dolphins for food and for the oil found in small quantities in the animal’s head. (The oil was once widely used as a lubricant.) Although the hunting of dolphins greatly declined in the 20th century, many dolphins are still killed inadvertently when they become entrapped in huge nets used to catch tuna.
 
-### PHYSICAL DESCRIPTION
+### Physical Description
 
 Dolphins range in size from the small tucuxi dolphin, which grows to about 1.2 m (4 ft) in length and weighs about 50 kg (110 lb), to the killer whale, which can grow to 9.8 m (32 ft) in length and weigh over 5,500 kg (12,100 lb). In most dolphins males grow slightly larger than females.
 
