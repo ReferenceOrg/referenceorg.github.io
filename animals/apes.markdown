@@ -5,34 +5,6 @@ common_name: Apes
 scientific_name: Hominidae
 type: Mammal
 red_list_status: Least Concern
-article_images:
-- image_thumb: tmpFF2-thumb.jpg
-  image_small: tmpFF2-720w.jpg
-  image_large: tmpFF2-1920w1332h.jpg
-- image_thumb: tmp24A4-thumb.jpg
-  image_small: tmp24A4-720w.jpg
-  image_large: tmp24A4-1920w1464h.jpg
-- image_thumb: tmp3629-thumb.jpg
-  image_small: tmp3629-720w.jpg
-  image_large: tmp3629-1920w1385h.jpg
-- image_thumb: tmp48E7-thumb.jpg
-  image_small: tmp48E7-720w.jpg
-  image_large: tmp48E7-1920w1282h.jpg
-- image_thumb: tmp5C12-thumb.jpg
-  image_small: tmp5C12-720w.jpg
-  image_large: tmp5C12-1920w1537h.jpg
-- image_thumb: tmp80C2-thumb.jpg
-  image_small: tmp80C2-720w.jpg
-  image_large: tmp80C2-1920w1280h.jpg
-- image_thumb: tmp9499-thumb.jpg
-  image_small: tmp9499-720w.jpg
-  image_large: tmp9499-1920w1281h.jpg
-- image_thumb: tmpC3C8-thumb.jpg
-  image_small: tmpC3C8-720w.jpg
-  image_large: tmpC3C8-1920w1280h.jpg
-- image_thumb: tmpE05A-thumb.jpg
-  image_small: tmpE05A-720w.jpg
-  image_large: tmpE05A-1920w1829h.jpg
 ---
 
 ### Introduction
