@@ -4,6 +4,43 @@ title: Seals
 common_name: Seals
 type: Mammal
 red_list_status: Least Concern
+article_images:
+- caption: A young grey seal pup. Iceland Ameland, Dutch.
+  credit: Emka74, Shutterstock
+  image_thumb: PFWOL65R-thumb.jpg
+  image_small: PFWOL65R-720w.jpg
+  image_large: PFWOL65R-1920w1207h.jpg
+  image_type: content_and_header
+- caption: Baby harp seal pup on ice of the White Sea
+  credit: Vladimir Melnik, Shutterstock
+  image_thumb: GMN9E2TI-thumb.jpg
+  image_small: GMN9E2TI-720w.jpg
+  image_large: GMN9E2TI-1920w1280h.jpg
+  image_type: content_and_header
+- caption: Grey Seal (halichoerus grypus) on the beach
+  credit: Nicram Sabod, Shutterstock
+  image_thumb: D00ZOLDE-thumb.jpg
+  image_small: D00ZOLDE-720w.jpg
+  image_large: D00ZOLDE-1920w1280h.jpg
+  image_type: content_and_header
+- caption: A young grey seal pup. Iceland Ameland, Dutch.
+  credit: Emka74, Shutterstock
+  image_thumb: DRO8FUY2-thumb.jpg
+  image_small: DRO8FUY2-720w.jpg
+  image_large: DRO8FUY2-1920w1275h.jpg
+  image_type: content_and_header
+- caption: Curious seal
+  credit: Alexandra Giese, Shutterstock
+  image_thumb: VYFLU6KB-thumb.jpg
+  image_small: VYFLU6KB-720w.jpg
+  image_large: VYFLU6KB-1920w1275h.jpg
+  image_type: content_and_header
+- caption: Mother and baby seal swimming
+  credit: Anneka, Shutterstock
+  image_thumb: GM5Q8DL3-thumb.jpg
+  image_small: GM5Q8DL3-720w.jpg
+  image_large: GM5Q8DL3-1920w1766h.jpg
+  image_type: content_and_header
 ---
 
 ### Introduction
