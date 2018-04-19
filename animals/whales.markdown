@@ -4,6 +4,37 @@ title: Whales
 common_name: Whales
 type: Mammal
 red_list_status: Least Concern
+article_images:
+- caption: Humpback Whale
+  credit: Seb c'est bien, Shutterstock
+  image_thumb: QBJCVQTK-thumb.jpg
+  image_small: QBJCVQTK-720w.jpg
+  image_large: QBJCVQTK-1920w1187h.jpg
+  image_type: content_and_header
+- caption: A humpback whale mum and calf
+  credit: Michael Smith ITWP, Shutterstock
+  image_thumb: 9K1N05GO-thumb.jpg
+  image_small: 9K1N05GO-720w.jpg
+  image_large: 9K1N05GO-1920w1280h.jpg
+  image_type: content_and_header
+- caption: Humpback Whale
+  credit: Yann Hubert, Shutterstock
+  image_thumb: NZWL6FXO-thumb.jpg
+  image_small: NZWL6FXO-720w.jpg
+  image_large: NZWL6FXO-1920w1277h.jpg
+  image_type: content_and_header
+- caption: Long-finned pilot whale
+  credit: Andrew Sutton, Shutterstock
+  image_thumb: LLY7UI7C-thumb.jpg
+  image_small: LLY7UI7C-720w.jpg
+  image_large: LLY7UI7C-1920w1220h.jpg
+  image_type: content_and_header
+- caption: Humpback Whale, Vava'u island, Tonga
+  credit: Martin Prochazkacz, Shutterstock
+  image_thumb: 3G9V8VV9-thumb.jpg
+  image_small: 3G9V8VV9-720w.jpg
+  image_large: 3G9V8VV9-1920w1280h.jpg
+  image_type: content_and_header
 ---
 
 ### Introduction
