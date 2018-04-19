@@ -4,17 +4,58 @@ title: Cats
 common_name: Cats
 type: Mammal
 red_list_status: Least Concern
+article_images:
+- caption: Bengal Tiger
+  credit: Sukpaiboonwat, Shutterstock
+  image_thumb: H3RDUHEU-thumb.jpg
+  image_small: H3RDUHEU-720w.jpg
+  image_large: H3RDUHEU-1920w1280h.jpg
+  image_type: content_and_header
+- caption: Black Panther
+  credit: Holger Kirk, Shutterstock
+  image_thumb: LD8IM8KS-thumb.jpg
+  image_small: LD8IM8KS-720w.jpg
+  image_large: LD8IM8KS-1920w1280h.jpg
+  image_type: content_and_header
+- caption: Male Lion
+  credit: John J Brown, Shutterstock
+  image_thumb: A8FB5B5N-thumb.jpg
+  image_small: A8FB5B5N-720w.jpg
+  image_large: A8FB5B5N-1920w1080h.jpg
+  image_type: content_and_header
+- caption: Siberian Tiger walking in river water, Russia
+  credit: Ondrej Prosicky, Shutterstock
+  image_thumb: BJUXSCB1-thumb.jpg
+  image_small: BJUXSCB1-720w.jpg
+  image_large: BJUXSCB1-1920w1280h.jpg
+  image_type: content_and_header
+- caption: The female cheetah with cabs. Serengeti National Park, Africa
+  credit: GUDKOV ANDREY, Shutterstock
+  image_thumb: HFLOPJ23-thumb.jpg
+  image_small: HFLOPJ23-720w.jpg
+  image_large: HFLOPJ23-1920w980h.jpg
+  image_type: content_and_header
+- caption: Siberian Tiger
+  credit: Ondrej Prosicky, Shutterstock
+  image_thumb: 6VKOV6OZ-thumb.jpg
+  image_small: 6VKOV6OZ-720w.jpg
+  image_large: 6VKOV6OZ-1920w1280h.jpg
+  image_type: content_and_header
+- caption: Lion cubs playing
+  credit: Theodore Mattas, Shutterstock
+  image_thumb: Q7NOGWQG-thumb.jpg
+  image_small: Q7NOGWQG-720w.jpg
+  image_large: Q7NOGWQG-1920w1304h.jpg
+  image_type: content_and_header
+- caption: Male Leopard licking his lips, Okonjima, Namibia
+  credit: Steve Smith, Shutterstock
+  image_thumb: 7ECLXQCJ-thumb.jpg
+  image_small: 7ECLXQCJ-720w.jpg
+  image_large: 7ECLXQCJ-1920w1280h.jpg
+  image_type: content_and_header
 ---
 
 ### Introduction
-
-Humans have hunted bears since prehistoric times, using bear flesh for food and bear fur to make clothing. Early humans may have learned which plants were edible by watching cave bears forage for food. More recently, humans have contributed to the decline of bear populations worldwide, mainly by encroaching on bear habitats through farming, settlement, logging, and mining. Despite laws protecting bears, people continue to hunt bears for sport, for food, to protect crops and livestock, and for certain bear parts used in a variety of traditional medicines. Six of the existing eight species of bears are listed as endangered or vulnerable according to the World Conservation Union (IUCN) Red List issued in 2007. Only the brown bear and the American black bear are not considered threatened or endangered within their natural ranges.
-
-As humans encroach on bear habitats, the opportunity for humans and bears to interact is becoming more and more common. In general, bears prefer to avoid humans, but often they have no choice but to enter suburbs and other populated areas in search of food. Humans may also stumble upon bears that are foraging for food in wilderness areas. Bear attacks are extremely rare, and most human encounters with a bear that result in the bear responding aggressively are the result of humans surprising bears and causing them to feel threatened. 
-
-Bears can be attracted to food or food waste left by people, although high-calorie human food is unhealthy for bears to eat. Polar bears sometimes forage at open garbage dumps in Arctic areas, risking encounters with humans. Bears in wilderness parks where people camp may seek out garbage or food kept at campsites. Special food and garbage storage containers have been designed to block access to bears. Bears that enter camping areas to find food are a danger to people and must either be relocated or destroyed.
-
-To avoid dangerous encounters with bears, the Minnesota-based American Bear Association, a nonprofit organization, recommends that people who come into contact with a bear not run away. A bear can easily outrun a human. Instead, the association advises people to stay calm and avoid direct eye contact with the bear. According to the association, people should talk to the bear in a soothing voice, try to appear larger by raising their arms over their head, and slowly back away from the bear and retreat from the area, making a wide detour around the bear. Because of their extremely acute sense of smell, bears can often be deterred from attacking by irritating chemicals in bear-spray products. 
 
 Since prehistoric times, humans have both feared and revered members of the cat family. Their special combination of physical power and ferocity, along with grace and beauty, have earned cats a prominent place in the art, literature, religion, and symbolism of many cultures. In the modern world, however, many wild members of the cat family are threatened with extinction because of hunting by humans and habitat loss. Only the domestic cat thrives everywhere, numbering over 600 million worldwide.
 
