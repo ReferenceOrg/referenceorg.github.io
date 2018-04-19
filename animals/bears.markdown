@@ -4,6 +4,43 @@ title: Bears
 common_name: Bears
 type: Mammal
 red_list_status: Least Concern
+article_images:
+- caption: Polar Bear (Ursus maritimus)
+  credit: Vaclav Sebek, Shutterstock
+  image_thumb: R2SCD3RS-thumb.jpg
+  image_small: R2SCD3RS-720w.jpg
+  image_large: R2SCD3RS-1920w1280h.jpg
+  image_type: content_and_header
+- caption: Grizzly Bear Roaring
+  credit: Scott E Read, Shutterstock
+  image_thumb: ONLGBBXO-thumb.jpg
+  image_small: ONLGBBXO-720w.jpg
+  image_large: ONLGBBXO-1920w1275h.jpg
+  image_type: content_and_header
+- caption: Young brown bear in the forest
+  credit: Volodymyr Burdiak, Shutterstock
+  image_thumb: 7GAIO7QO-thumb.jpg
+  image_small: 7GAIO7QO-720w.jpg
+  image_large: 7GAIO7QO-1920w1281h.jpg
+  image_type: content_and_header
+- caption: 'Two young brown bear cubs in the forest. '
+  credit: Volodymyr Burdiak, Shutterstock
+  image_thumb: D5RTH6NM-thumb.jpg
+  image_small: D5RTH6NM-720w.jpg
+  image_large: D5RTH6NM-1920w1281h.jpg
+  image_type: content_and_header
+- caption: Brown mother bear protecting her cubs in the Finnish Taiga forest
+  credit: ArCaLu, Shutterstock
+  image_thumb: BAFWSUF0-thumb.jpg
+  image_small: BAFWSUF0-720w.jpg
+  image_large: BAFWSUF0-1920w1280h.jpg
+  image_type: content_and_header
+- caption: Brown bear walking free in the Finnish Taiga forest
+  credit: ArCaLu, Shutterstock
+  image_thumb: Y1PONMXM-thumb.jpg
+  image_small: Y1PONMXM-720w.jpg
+  image_large: Y1PONMXM-1920w1280h.jpg
+  image_type: content_and_header
 ---
 
 ### Introduction
