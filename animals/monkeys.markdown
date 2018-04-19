@@ -4,6 +4,55 @@ title: Monkeys
 common_name: Monkeys
 type: Mammal
 red_list_status: Least Concern
+article_images:
+- caption: Golden Snub-nosed Monkey
+  credit: Wang LiQiang, Shutterstock
+  image_thumb: Y3AW1TB6-thumb.jpg
+  image_small: Y3AW1TB6-720w.jpg
+  image_large: Y3AW1TB6-1920w1607h.jpg
+  image_type: content_and_header
+- caption: Gelada Baboon in Ethiopia
+  credit: Ondrej Prosicky, Shutterstock
+  image_thumb: M91Q4KY0-thumb.jpg
+  image_small: M91Q4KY0-720w.jpg
+  image_large: M91Q4KY0-1920w1280h.jpg
+  image_type: content_and_header
+- caption: Baby Macaque
+  credit: Cuson, Shutterstock
+  image_thumb: UZKHU37H-thumb.jpg
+  image_small: UZKHU37H-720w.jpg
+  image_large: UZKHU37H-1920w1280h.jpg
+  image_type: content_and_header
+- caption: Snow monkeys from Jigokudani Monkey Park in Japan
+  credit: Billysfam, Shutterstock
+  image_thumb: TY839MDA-thumb.jpg
+  image_small: TY839MDA-720w.jpg
+  image_large: TY839MDA-1920w1280h.jpg
+  image_type: content_and_header
+- caption: Macaque monkey with mother in Mauritius
+  credit: Karl Steiner, Shutterstock
+  image_thumb: W8UHNTK5-thumb.jpg
+  image_small: W8UHNTK5-720w.jpg
+  image_large: W8UHNTK5-1920w1280h.jpg
+  image_type: content_and_header
+- caption: Squirrel monkey in Ecuadorian jungle, Amazon
+  credit: Ludmila Ruzickova, Shutterstock
+  image_thumb: 45CZ3WH2-thumb.jpg
+  image_small: 45CZ3WH2-720w.jpg
+  image_large: 45CZ3WH2-1920w1280h.jpg
+  image_type: content_and_header
+- caption: Golden Snub-nosed Monkey
+  credit: Wang LiQiang, Shutterstock
+  image_thumb: 69HZPFP5-thumb.jpg
+  image_small: 69HZPFP5-720w.jpg
+  image_large: 69HZPFP5-1920w943h.jpg
+  image_type: content_and_header
+- caption: Golden Snub-nosed Monkey
+  credit: Wang LiQiang, Shutterstock
+  image_thumb: 53CDUI7A-thumb.jpg
+  image_small: 53CDUI7A-720w.jpg
+  image_large: 53CDUI7A-1920w1479h.jpg
+  image_type: content_and_header
 ---
 
 ### Introduction

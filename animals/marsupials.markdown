@@ -5,6 +5,37 @@ common_name: Marsupials
 scientific_name: Marsupialia
 type: Mammal
 red_list_status: Least Concern
+article_images:
+- caption: Koala resting and sleeping on his tree
+  credit: Arnaud Martinez, Shutterstock
+  image_thumb: FZ1ZEMIX-thumb.jpg
+  image_small: FZ1ZEMIX-720w.jpg
+  image_large: FZ1ZEMIX-1920w1280h.jpg
+  image_type: content_and_header
+- caption: The marsupial Wombat of Australia
+  credit: Tap10, Shutterstock
+  image_thumb: 2X0BNZDS-thumb.jpg
+  image_small: 2X0BNZDS-720w.jpg
+  image_large: 2X0BNZDS-1920w1280h.jpg
+  image_type: content_and_header
+- caption: Australian Kangaroo
+  credit: MJ - Tim, Shutterstock
+  image_thumb: Z98JAOFB-thumb.jpg
+  image_small: Z98JAOFB-720w.jpg
+  image_large: Z98JAOFB-1920w1159h.jpg
+  image_type: content_and_header
+- caption: Mother and Baby Kangaroo
+  credit: Belle Ciezak, Shutterstock
+  image_thumb: P62PZUDC-thumb.jpg
+  image_small: P62PZUDC-720w.jpg
+  image_large: P62PZUDC-1920w1280h.jpg
+  image_type: content_and_header
+- caption: A quokka (Setonix brachyurus). Native to Western Australia's Rottnest Island, the quakka is a small herbivorous marsupial.
+  credit: AzureJasper, Shutterstock
+  image_thumb: CU01OZM9-thumb.jpg
+  image_small: CU01OZM9-720w.jpg
+  image_large: CU01OZM9-1920w1280h.jpg
+  image_type: content_and_header
 ---
 
 ### Introduction

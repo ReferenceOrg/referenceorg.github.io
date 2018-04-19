@@ -4,6 +4,37 @@ title: Dolphins
 common_name: Dolphins
 type: Mammal
 red_list_status: Least Concern
+article_images:
+- caption: 'Dolphin portrait '
+  credit: Andrea Izzotti, Shutterstock
+  image_thumb: YFQKHRGP-thumb.jpg
+  image_small: YFQKHRGP-720w.jpg
+  image_large: YFQKHRGP-1920w1280h.jpg
+  image_type: content_and_header
+- caption: Dolphin and turtle underwater
+  credit: Andrea Izzotti, Shutterstock
+  image_thumb: TAMO5HCT-thumb.jpg
+  image_small: TAMO5HCT-720w.jpg
+  image_large: TAMO5HCT-1920w1280h.jpg
+  image_type: content_and_header
+- caption: Dolphin underwater
+  credit: Andrea Izzotti, Shutterstock
+  image_thumb: 4WJ5RGPR-thumb.jpg
+  image_small: 4WJ5RGPR-720w.jpg
+  image_large: 4WJ5RGPR-1920w1280h.jpg
+  image_type: content_and_header
+- caption: Dolphin underwater
+  credit: Andrea Izzotti, Shutterstock
+  image_thumb: M7Q2JRVP-thumb.jpg
+  image_small: M7Q2JRVP-720w.jpg
+  image_large: M7Q2JRVP-1920w1280h.jpg
+  image_type: content_and_header
+- caption: A pod of long-beaked common dolphins leap out of the water in Monterey Bay, California.
+  credit: Chase Dekker, Shutterstock
+  image_thumb: WQSRQ2TY-thumb.jpg
+  image_small: WQSRQ2TY-720w.jpg
+  image_large: WQSRQ2TY-1920w960h.jpg
+  image_type: content_and_header
 ---
 
 ### Introduction
