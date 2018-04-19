@@ -4,6 +4,37 @@ title: Bats
 common_name: Bats
 type: Mammal
 red_list_status: Least Concern
+article_images:
+- caption: 'Flying bat '
+  credit: Bernd Wolter, Shutterstock
+  image_thumb: PTPUOY1J-thumb.jpg
+  image_small: PTPUOY1J-720w.jpg
+  image_large: PTPUOY1J-1920w1256h.jpg
+  image_type: content_and_header
+- caption: Fruitbat hanging upside down
+  credit: Benjamin B, Shutterstock
+  image_thumb: DWU6OPLW-thumb.jpg
+  image_small: DWU6OPLW-720w.jpg
+  image_large: DWU6OPLW-1920w1280h.jpg
+  image_type: content_and_header
+- caption: Myotis bat in flight at night
+  credit: Beth Ruggiero-York, Shutterstock
+  image_thumb: 7QTXPBWJ-thumb.jpg
+  image_small: 7QTXPBWJ-720w.jpg
+  image_large: 7QTXPBWJ-1920w1630h.jpg
+  image_type: content_and_header
+- caption: Bat flying
+  credit: Independent birds, Shutterstock
+  image_thumb: UGJ42YSZ-thumb.jpg
+  image_small: UGJ42YSZ-720w.jpg
+  image_large: UGJ42YSZ-1920w1282h.jpg
+  image_type: content_and_header
+- caption: Lesser false vampire bat are sleeping in the cave
+  credit: Visanuwit Thongon, Shutterstock
+  image_thumb: O5HPJUPT-thumb.jpg
+  image_small: O5HPJUPT-720w.jpg
+  image_large: O5HPJUPT-1920w1272h.jpg
+  image_type: content_and_header
 ---
 
 ### Introduction

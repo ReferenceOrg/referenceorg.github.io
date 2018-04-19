@@ -6,23 +6,33 @@ scientific_name: Hominidae
 type: Mammal
 red_list_status: Least Concern
 article_images:
-- image_thumb: FX0R13BA-thumb.jpg
+- caption: A female of the orangutan with a cub in a native habitat. Rainforest of Borneo.
+  credit: Sergey Uryadnikov, Shutterstock
+  image_thumb: FX0R13BA-thumb.jpg
   image_small: FX0R13BA-720w.jpg
   image_large: FX0R13BA-1920w1332h.jpg
   image_type: content_and_header
-- image_thumb: KEWFWSUZ-thumb.jpg
+- caption: Close up of orangutans
+  credit: Tristan Tan, Shutterstock
+  image_thumb: KEWFWSUZ-thumb.jpg
   image_small: KEWFWSUZ-720w.jpg
   image_large: KEWFWSUZ-1920w1464h.jpg
   image_type: content_and_header
-- image_thumb: IABLL8NW-thumb.jpg
+- caption: A female mountain gorilla with a baby. Uganda. Bwindi Impenetrable Forest National Park.
+  credit: GUDKOV ANDREY, Shutterstock
+  image_thumb: IABLL8NW-thumb.jpg
   image_small: IABLL8NW-720w.jpg
   image_large: IABLL8NW-1920w1385h.jpg
   image_type: content_and_header
-- image_thumb: UD4M5Q6M-thumb.jpg
+- caption: A male silverback mountain gorilla in the Volcanoes National Park, Rweanda
+  credit: Jurgen Vogt, Shutterstock
+  image_thumb: UD4M5Q6M-thumb.jpg
   image_small: UD4M5Q6M-720w.jpg
   image_large: UD4M5Q6M-1920w1282h.jpg
   image_type: content_and_header
-- image_thumb: CA359MCK-thumb.jpg
+- caption: Frontal Portrait of a Young Chimpanzee Relaxing on a Tree Branch
+  credit: Abeselom Zerit, Shutterstock
+  image_thumb: CA359MCK-thumb.jpg
   image_small: CA359MCK-720w.jpg
   image_large: CA359MCK-1920w1537h.jpg
   image_type: content_and_header
@@ -30,19 +40,27 @@ article_images:
   image_small: LCL17RXK-720w.jpg
   image_large: LCL17RXK-1920w1280h.jpg
   image_type: content_and_header
-- image_thumb: 7KBHU36G-thumb.jpg
+- caption: Yellow-cheeked crested gibbon couple
+  credit: Bidru, Shutterstock
+  image_thumb: 7KBHU36G-thumb.jpg
   image_small: 7KBHU36G-720w.jpg
   image_large: 7KBHU36G-1920w1280h.jpg
   image_type: content_and_header
-- image_thumb: KD7X8YF4-thumb.jpg
+- caption: Beautiful white-handed Gibbon (Hylobates lar) sitting on ground
+  credit: Cowboy54, Shutterstock
+  image_thumb: KD7X8YF4-thumb.jpg
   image_small: KD7X8YF4-720w.jpg
   image_large: KD7X8YF4-1920w1280h.jpg
   image_type: content_and_header
-- image_thumb: IJCWYY05-thumb.jpg
+- caption: Bonobo Cub in natural habitat, Democratic Republic of Congo. Africa
+  credit: Sergey Uryadnikov, Shutterstock
+  image_thumb: IJCWYY05-thumb.jpg
   image_small: IJCWYY05-720w.jpg
   image_large: IJCWYY05-1920w1829h.jpg
   image_type: content_and_header
-- image_thumb: 70AIXVZC-thumb.jpg
+- caption: Bonobos in natural habitat. Democratic Republic of Congo. Africa
+  credit: Sergey Uryadnikov, Shutterstock
+  image_thumb: 70AIXVZC-thumb.jpg
   image_small: 70AIXVZC-720w.jpg
   image_large: 70AIXVZC-1920w1005h.jpg
   image_type: content_and_header
