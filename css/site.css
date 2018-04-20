@@ -313,7 +313,7 @@ h1.banner {
     font-family: Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
     -webkit-font-smoothing: antialiased;
     font-size: 1.1rem;
-    font-weight: 400;
+    font-weight: 300;
 }
 
 .details-body h1 {
