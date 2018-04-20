@@ -237,14 +237,14 @@
 }
 
 .details-carousel .banner-container {
-    height: 700px;
+    height: 800px;
     width: 100%;
     z-index: 2;
     display: contents;
 }
 
 .details-carousel .carousel-item {
-    height: 700px;
+    height: 800px;
 }
 
 h1.banner {
