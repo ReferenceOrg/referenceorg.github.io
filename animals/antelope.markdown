@@ -4,6 +4,54 @@ title: Antelope
 common_name: Antelope
 type: Invertebrate
 red_list_status: Least Concern
+article_images:
+- caption: Antelope
+  credit: Rusla Ruseyn,Shutterstock
+  image_thumb: ZBSUD6TL-thumb.jpg
+  image_small: ZBSUD6TL-720w.jpg
+  image_large: ZBSUD6TL-1920w1302h.jpg
+  image_type: content_and_header
+- caption: Running Springbok jumping high - Antidorcas Marsupialis - Kalahari - South Africa
+  credit: Johan Swanepoel,Shutterstock
+  image_thumb: WJC68EKY-thumb.jpg
+  image_small: WJC68EKY-720w.jpg
+  image_large: WJC68EKY-1920w1163h.jpg
+  image_type: content_and_header
+- credit: ',Shutterstock'
+  image_thumb: KEUYCL3Z-thumb.jpg
+  image_small: KEUYCL3Z-720w.jpg
+  image_large: KEUYCL3Z-1920w1280h.jpg
+  image_type: content_and_header
+- caption: Little royal antelope neotragus pygmaeus
+  credit: Olexandr Taranukhin, Shutterstock
+  image_thumb: DJLOF573-thumb.jpg
+  image_small: DJLOF573-720w.jpg
+  image_large: DJLOF573-1920w1280h.jpg
+  image_type: content_and_header
+- caption: Pronghorn (Antilocapra american)
+  credit: NaturesMomentsuk,Shutterstock
+  image_thumb: U6Y4FEX4-thumb.jpg
+  image_small: U6Y4FEX4-720w.jpg
+  image_large: U6Y4FEX4-1920w1278h.jpg
+  image_type: content_and_header
+- caption: Roan antelope
+  credit: Mike Dexter,Shutterstock
+  image_thumb: WRFBXH1L-thumb.jpg
+  image_small: WRFBXH1L-720w.jpg
+  image_large: WRFBXH1L-1920w1280h.jpg
+  image_type: content_and_header
+- caption: Antelope at Murchison Falls National Park Safari Reserve in Uganda
+  credit: Sergey Krasnoshchokov,Shutterstock
+  image_thumb: 6Y647N1O-thumb.jpg
+  image_small: 6Y647N1O-720w.jpg
+  image_large: 6Y647N1O-1920w1280h.jpg
+  image_type: content_and_header
+- caption: Dik dik antelope in Tarangire National Park, Tanzania.
+  credit: Olexandr Taranukhin, Shutterstock
+  image_thumb: I2R4UFG1-thumb.jpg
+  image_small: I2R4UFG1-720w.jpg
+  image_large: I2R4UFG1-1920w1280h.jpg
+  image_type: content_and_header
 ---
 
 ### Introduction

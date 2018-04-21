@@ -4,6 +4,37 @@ title: Camel
 common_name: Camel
 type: Mammal
 red_list_status: Least Concern
+article_images:
+- caption: Camels in Arabia
+  credit: Yasser El Dershaby, Shutterstock
+  image_thumb: R0CUF2C5-thumb.jpg
+  image_small: R0CUF2C5-720w.jpg
+  image_large: R0CUF2C5-1920w1280h.jpg
+  image_type: content_and_header
+- caption: Camel at Pushkar Mela - famous annual camel and livestock fair, held in the town of Pushkar, Rajasthan, India
+  credit: DR Travel Photo and Video, Shutterstock
+  image_thumb: RARQ8D6G-thumb.jpg
+  image_small: RARQ8D6G-720w.jpg
+  image_large: RARQ8D6G-1920w1280h.jpg
+  image_type: content_and_header
+- caption: Camels on desert
+  credit: Marcin Kaczmarczyk, Shutterstock
+  image_thumb: EKWNW2KQ-thumb.jpg
+  image_small: EKWNW2KQ-720w.jpg
+  image_large: EKWNW2KQ-1920w1280h.jpg
+  image_type: content_and_header
+- caption: Bactrian camels (Camelus bactrianus) in winter. The Bactrian camel is a large, even-toed ungulate native to the steppes of Central Asia.
+  credit: Yerbolat Shadrakhov, Shutterstock
+  image_thumb: LOZO605Q-thumb.jpg
+  image_small: LOZO605Q-720w.jpg
+  image_large: LOZO605Q-1920w1281h.jpg
+  image_type: content_and_header
+- caption: A camel with her calf in Wadi Sumayni, Oman.
+  credit: David Steele, Shutterstock
+  image_thumb: F0MHLGIQ-thumb.jpg
+  image_small: F0MHLGIQ-720w.jpg
+  image_large: F0MHLGIQ-1920w1280h.jpg
+  image_type: content_and_header
 ---
 
 ### Introduction
