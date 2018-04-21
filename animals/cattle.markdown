@@ -4,6 +4,49 @@ title: Cattle
 common_name: Cattle
 type: Invertebrate
 red_list_status: Least Concern
+article_images:
+- caption: Highland Cattle
+  credit: Mariusz Olszak,Shutterstock
+  image_thumb: ZWNTXZ3I-thumb.jpg
+  image_small: ZWNTXZ3I-720w.jpg
+  image_large: ZWNTXZ3I-1920w1280h.jpg
+  image_type: content_and_header
+- caption: Highland Cattle
+  credit: Mariusz Olszak,Shutterstock
+  image_thumb: LF7F3FUY-thumb.jpg
+  image_small: LF7F3FUY-720w.jpg
+  image_large: LF7F3FUY-1920w1282h.jpg
+  image_type: content_and_header
+- caption: Dutch cow
+  credit: Rob Bouwman,Shutterstock
+  image_thumb: PVJ1CX91-thumb.jpg
+  image_small: PVJ1CX91-720w.jpg
+  image_large: PVJ1CX91-1920w1280h.jpg
+  image_type: content_and_header
+- caption: Polled Angus Cow
+  credit: Maksimilian,Shutterstock
+  image_thumb: FALI0Z47-thumb.jpg
+  image_small: FALI0Z47-720w.jpg
+  image_large: FALI0Z47-1920w1280h.jpg
+  image_type: content_and_header
+- caption: exas longhorn steer in rural Utah, USA.
+  credit: Johnny Adolphson,Shutterstock
+  image_thumb: BGX9P03W-thumb.jpg
+  image_small: BGX9P03W-720w.jpg
+  image_large: BGX9P03W-1920w1280h.jpg
+  image_type: content_and_header
+- caption: Free-range red angus cattle on pasture, Argentina
+  credit: EcoPrint,Shutterstock
+  image_thumb: VQD02ZXA-thumb.jpg
+  image_small: VQD02ZXA-720w.jpg
+  image_large: VQD02ZXA-1920w1361h.jpg
+  image_type: content_and_header
+- caption: Herd of Black Angus Cattle
+  credit: Steve Oehlenschlager,Shutterstock
+  image_thumb: FX107RNB-thumb.jpg
+  image_small: FX107RNB-720w.jpg
+  image_large: FX107RNB-1920w1281h.jpg
+  image_type: content_and_header
 ---
 
 ### Introduction

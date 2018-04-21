@@ -2,7 +2,7 @@
 layout: animal_category
 title: Antelope
 common_name: Antelope
-type: Invertebrate
+type: Mammal
 red_list_status: Least Concern
 article_images:
 - caption: Antelope
