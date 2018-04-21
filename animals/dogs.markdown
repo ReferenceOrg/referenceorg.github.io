@@ -4,6 +4,42 @@ title: Dogs
 common_name: Dogs
 type: Mammal
 red_list_status: Least Concern
+article_images:
+- credit: Monika Chodak,Shutterstock
+  image_thumb: KWN63S2E-thumb.jpg
+  image_small: KWN63S2E-720w.jpg
+  image_large: KWN63S2E-1920w1331h.jpg
+  image_type: content_and_header
+- caption: Pug dog
+  credit: Monika Chodak,Shutterstock
+  image_thumb: LVXR6CWZ-thumb.jpg
+  image_small: LVXR6CWZ-720w.jpg
+  image_large: LVXR6CWZ-1920w1282h.jpg
+  image_type: content_and_header
+- caption: German Shepherd
+  credit: ',Shutterstock'
+  image_thumb: TVS9IFJF-thumb.jpg
+  image_small: TVS9IFJF-720w.jpg
+  image_large: TVS9IFJF-1920w1282h.jpg
+  image_type: content_and_header
+- caption: JACK RUSSELL PARSON TERRIER
+  credit: Ammit Jack,Shutterstock
+  image_thumb: 4G59SDPK-thumb.jpg
+  image_small: 4G59SDPK-720w.jpg
+  image_large: 4G59SDPK-1920w1280h.jpg
+  image_type: content_and_header
+- caption: Grey Wolf
+  credit: Holly Kuchera,Shutterstock
+  image_thumb: 1AAYV4QF-thumb.jpg
+  image_small: 1AAYV4QF-720w.jpg
+  image_large: 1AAYV4QF-1920w1275h.jpg
+  image_type: content_and_header
+- caption: 'Timber wolf '
+  credit: Volodymyr Burdiak,Shutterstock
+  image_thumb: LBGYIWIC-thumb.jpg
+  image_small: LBGYIWIC-720w.jpg
+  image_large: LBGYIWIC-1920w1280h.jpg
+  image_type: content_and_header
 ---
 
 ### Introduction

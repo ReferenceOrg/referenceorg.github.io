@@ -2,7 +2,7 @@
 layout: animal_category
 title: Deer
 common_name: Deer
-type: Invertebrate
+type: Mammal
 red_list_status: Least Concern
 article_images:
 - caption: A young Red deer stag.
