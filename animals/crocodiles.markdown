@@ -4,6 +4,40 @@ title: Crocodiles
 common_name: Crocodiles
 type: Reptile
 red_list_status: Least Concern
+article_images:
+- credit: Underworld, Shutterstock
+  image_thumb: 8SQ3UASV-thumb.jpg
+  image_small: 8SQ3UASV-720w.jpg
+  image_large: 8SQ3UASV-1920w1272h.jpg
+  image_type: content_and_header
+- credit: JaysonPhotography, Shutterstock
+  image_thumb: OB7KL0RO-thumb.jpg
+  image_small: OB7KL0RO-720w.jpg
+  image_large: OB7KL0RO-1920w1280h.jpg
+  image_type: content_and_header
+- caption: Large freshwater crocodile in Thailand
+  credit: Pattang, Shutterstock
+  image_thumb: X7KDSPXF-thumb.jpg
+  image_small: X7KDSPXF-720w.jpg
+  image_large: X7KDSPXF-1920w1274h.jpg
+  image_type: content_and_header
+- credit: Nantawudth Ngoenjan, Shutterstock
+  image_thumb: 8U35IQNW-thumb.jpg
+  image_small: 8U35IQNW-720w.jpg
+  image_large: 8U35IQNW-1920w1280h.jpg
+  image_type: content_and_header
+- caption: Crocodile hatchling
+  credit: Sandy van Vuuren, Shutterstock
+  image_thumb: OFXB2E6L-thumb.jpg
+  image_small: OFXB2E6L-720w.jpg
+  image_large: OFXB2E6L-1920w1283h.jpg
+  image_type: content_and_header
+- caption: Nile crocodiles (Crocodylus niloticus) basking, Kruger National Park, South Africa
+  credit: EcoPrint, Shutterstock
+  image_thumb: 2RY6GZIC-thumb.jpg
+  image_small: 2RY6GZIC-720w.jpg
+  image_large: 2RY6GZIC-1920w1067h.jpg
+  image_type: content_and_header
 ---
 
 ### Introduction
