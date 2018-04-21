@@ -4,6 +4,49 @@ title: Deer
 common_name: Deer
 type: Invertebrate
 red_list_status: Least Concern
+article_images:
+- caption: A young Red deer stag.
+  credit: Andrew Swinbank,Shutterstock
+  image_thumb: E7FO5EST-thumb.jpg
+  image_small: E7FO5EST-720w.jpg
+  image_large: E7FO5EST-1920w1280h.jpg
+  image_type: content_only
+- caption: Adult Red Deer stag
+  credit: Matt Gibson,Shutterstock
+  image_thumb: 5K49HXM7-thumb.jpg
+  image_small: 5K49HXM7-720w.jpg
+  image_large: 5K49HXM7-1920w1277h.jpg
+  image_type: content_only
+- caption: Adult Great Deer (Cervus Elaphus)
+  credit: Vlad Sokolovsky,Shutterstock
+  image_thumb: YL5GDPWT-thumb.jpg
+  image_small: YL5GDPWT-720w.jpg
+  image_large: YL5GDPWT-1920w1282h.jpg
+  image_type: content_only
+- caption: Adult Great Deer (Cervus Elaphus)
+  credit: Vlad Sokolovsky,Shutterstock
+  image_thumb: B8LA009J-thumb.jpg
+  image_small: B8LA009J-720w.jpg
+  image_large: B8LA009J-1920w1280h.jpg
+  image_type: content_only
+- caption: White-tailed Deer (Odocoileus virginianus) Fawn just a little over an hour old
+  credit: Steve Byland,Shutterstock
+  image_thumb: M00KL81K-thumb.jpg
+  image_small: M00KL81K-720w.jpg
+  image_large: M00KL81K-1920w1280h.jpg
+  image_type: content_only
+- caption: Young roe deer
+  credit: Patryk Kosmider,Shutterstock
+  image_thumb: XEGRJ6EE-thumb.jpg
+  image_small: XEGRJ6EE-720w.jpg
+  image_large: XEGRJ6EE-1920w1280h.jpg
+  image_type: content_only
+- caption: Fallow Deer
+  credit: Colin Edwards Wildside,Shutterstock
+  image_thumb: E1I53C9Z-thumb.jpg
+  image_small: E1I53C9Z-720w.jpg
+  image_large: E1I53C9Z-1920w1280h.jpg
+  image_type: content_only
 ---
 
 ### Introduction
