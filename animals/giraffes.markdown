@@ -10,24 +10,24 @@ article_images:
   image_thumb: 2IS7MU6Z-thumb.jpg
   image_small: 2IS7MU6Z-720w.jpg
   image_large: 2IS7MU6Z-1920w1307h.jpg
-  image_type: content_only
+  image_type: content_and_header
 - caption: Three giraffe on Kilimanjaro mount background in National park of Kenya, Africa
   credit: Volodymyr Burdiak,Shutterstock
   image_thumb: SDTTXHTL-thumb.jpg
   image_small: SDTTXHTL-720w.jpg
   image_large: SDTTXHTL-1920w1359h.jpg
-  image_type: content_only
+  image_type: content_and_header
 - credit: Jane Rix,Shutterstock
   image_thumb: QDIA2OZF-thumb.jpg
   image_small: QDIA2OZF-720w.jpg
   image_large: QDIA2OZF-1920w1280h.jpg
-  image_type: content_only
+  image_type: content_and_header
 - caption: Kissing giraffes
   credit: Jaroslava V,Shutterstock
   image_thumb: L7E8YHSM-thumb.jpg
   image_small: L7E8YHSM-720w.jpg
   image_large: L7E8YHSM-1920w1235h.jpg
-  image_type: content_only
+  image_type: content_and_header
 ---
 
 ### Introduction
