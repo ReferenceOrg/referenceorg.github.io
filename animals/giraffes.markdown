@@ -2,8 +2,32 @@
 layout: animal_category
 title: Giraffe
 common_name: Giraffe
-type: Invertebrate
+type: Mammal
 red_list_status: Least Concern
+article_images:
+- caption: Giraffe Family
+  credit: Craig Fraser,Shutterstock
+  image_thumb: QCRAZ9HG-thumb.jpg
+  image_small: QCRAZ9HG-720w.jpg
+  image_large: QCRAZ9HG-1920w1307h.jpg
+  image_type: content_only
+- caption: Three giraffe on Kilimanjaro mount background in National park of Kenya, Africa
+  credit: Volodymyr Burdiak,Shutterstock
+  image_thumb: V9RR1KW7-thumb.jpg
+  image_small: V9RR1KW7-720w.jpg
+  image_large: V9RR1KW7-1920w1359h.jpg
+  image_type: content_only
+- credit: Jane Rix,Shutterstock
+  image_thumb: CAROLL0U-thumb.jpg
+  image_small: CAROLL0U-720w.jpg
+  image_large: CAROLL0U-1920w1280h.jpg
+  image_type: content_only
+- caption: Kissing giraffes
+  credit: Jaroslava V,Shutterstock
+  image_thumb: 50LAXJ1K-thumb.jpg
+  image_small: 50LAXJ1K-720w.jpg
+  image_large: 50LAXJ1K-1920w1235h.jpg
+  image_type: content_only
 ---
 
 ### Introduction
