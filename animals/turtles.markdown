@@ -4,6 +4,46 @@ title: Turtles
 common_name: Turtles
 type: Invertebrate
 red_list_status: Least Concern
+article_images:
+- caption: Green turtle
+  credit: David Carbo,Shutterstock
+  image_thumb: 8AVBRYQO-thumb.jpg
+  image_small: 8AVBRYQO-720w.jpg
+  image_large: 8AVBRYQO-1920w1280h.jpg
+  image_type: content_and_header
+- caption: Small green sea turtle (Chelonia mydas), also known as black (sea) turtle, or Pacific green turtle on his way to the sea on a beach in Tanzania, Africa, seconds after hatching from his egg.
+  credit: Magdalena Paluchowska,Shutterstock
+  image_thumb: LBZEIZ2Z-thumb.jpg
+  image_small: LBZEIZ2Z-720w.jpg
+  image_large: LBZEIZ2Z-1920w1440h.jpg
+  image_type: content_and_header
+- caption: Sea turtle
+  credit: Neophuket,Shutterstock
+  image_thumb: 2GMZI2UA-thumb.jpg
+  image_small: 2GMZI2UA-720w.jpg
+  image_large: 2GMZI2UA-1920w1285h.jpg
+  image_type: content_and_header
+- image_thumb: PYGODUBQ-thumb.jpg
+  image_small: PYGODUBQ-720w.jpg
+  image_large: PYGODUBQ-1920w1440h.jpg
+- caption: Small green sea turtle (Chelonia mydas), also known as black (sea) turtle, or Pacific green turtle on his way to the sea on a beach in Tanzania, Africa, seconds after hatching from his egg.
+  credit: Kathayut kongmaneea,Shutterstock
+  image_thumb: GU1FZ0KZ-thumb.jpg
+  image_small: GU1FZ0KZ-720w.jpg
+  image_large: GU1FZ0KZ-1920w1280h.jpg
+  image_type: content_and_header
+- caption: Green turtle
+  credit: David Carbo,Shutterstock
+  image_thumb: V5LCTUMM-thumb.jpg
+  image_small: V5LCTUMM-720w.jpg
+  image_large: V5LCTUMM-1920w1280h.jpg
+  image_type: content_and_header
+- caption: Green sea Turtle Chelonia mydas Caribbean sea
+  credit: Davdeka,Shutterstock
+  image_thumb: RR69M5MF-thumb.jpg
+  image_small: RR69M5MF-720w.jpg
+  image_large: RR69M5MF-1920w1405h.jpg
+  image_type: content_and_header
 ---
 
 ### Introduction
