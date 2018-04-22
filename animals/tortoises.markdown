@@ -4,6 +4,37 @@ title: Tortoises
 common_name: Tortoises
 type: Reptile
 red_list_status: Least Concern
+article_images:
+- caption: Galapagos tortoise. Ecuador.
+  credit: FOTOGRIN,Shutterstock
+  image_thumb: AU801RQY-thumb.jpg
+  image_small: AU801RQY-720w.jpg
+  image_large: AU801RQY-1920w1280h.jpg
+  image_type: content_and_header
+- caption: Seychelles giant tortoise
+  credit: Jenny Sturm,Shutterstock
+  image_thumb: KEKJYLKI-thumb.jpg
+  image_small: KEKJYLKI-720w.jpg
+  image_large: KEKJYLKI-1920w1280h.jpg
+  image_type: content_and_header
+- caption: Baby Tortoise Hatching (African spurred tortoise)
+  credit: seasoning_17,Shutterstock
+  image_thumb: F1FZGL12-thumb.jpg
+  image_small: F1FZGL12-720w.jpg
+  image_large: F1FZGL12-1920w1280h.jpg
+  image_type: content_and_header
+- caption: Baby Tortoise Hatching (African spurred tortoise)
+  credit: seasoning_17,Shutterstock
+  image_thumb: OBJXEJZV-thumb.jpg
+  image_small: OBJXEJZV-720w.jpg
+  image_large: OBJXEJZV-1920w1440h.jpg
+  image_type: content_and_header
+- caption: Leopard tortoise in Kruger national park, South Africa
+  credit: Utopia_88,Shutterstock
+  image_thumb: CKHZGYVU-thumb.jpg
+  image_small: CKHZGYVU-720w.jpg
+  image_large: CKHZGYVU-1920w1280h.jpg
+  image_type: content_and_header
 ---
 
 Tortoise, common name for members of a family of turtles that live entirely on land. Tortoises are slow-moving animals known for their long life spans, which in some instances may exceed 150 years. There are 41 species of tortoises.
