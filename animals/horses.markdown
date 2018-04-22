@@ -4,6 +4,42 @@ title: Horses
 common_name: Horses
 type: Mammal
 red_list_status: Least Concern
+article_images:
+- caption: Clydesdale horse
+  credit: OlesyaNickolaeva,Shutterstock
+  image_thumb: S07ASSNE-thumb.jpg
+  image_small: S07ASSNE-720w.jpg
+  image_large: S07ASSNE-1920w1280h.jpg
+  image_type: content_and_header
+- caption: Horses galloping
+  credit: Kwadrat,Shutterstock
+  image_thumb: AQ1XW8KS-thumb.jpg
+  image_small: AQ1XW8KS-720w.jpg
+  image_large: AQ1XW8KS-1920w1280h.jpg
+  image_type: content_and_header
+- credit: Callipso,Shutterstock
+  image_thumb: ZK9NEGBG-thumb.jpg
+  image_small: ZK9NEGBG-720w.jpg
+  image_large: ZK9NEGBG-1920w1280h.jpg
+  image_type: content_and_header
+- caption: Two horses embracing in friendship.
+  credit: cornfield,Shutterstock
+  image_thumb: 0TVU6RGG-thumb.jpg
+  image_small: 0TVU6RGG-720w.jpg
+  image_large: 0TVU6RGG-1920w1277h.jpg
+  image_type: content_and_header
+- caption: Shetland foal
+  credit: Marlinda vd Spek,Shutterstock
+  image_thumb: Q3BL3R5A-thumb.jpg
+  image_small: Q3BL3R5A-720w.jpg
+  image_large: Q3BL3R5A-1920w1280h.jpg
+  image_type: content_and_header
+- caption: Young foal
+  credit: aabeele,Shutterstock
+  image_thumb: 9QO9GNZX-thumb.jpg
+  image_small: 9QO9GNZX-720w.jpg
+  image_large: 9QO9GNZX-1920w1280h.jpg
+  image_type: content_and_header
 ---
 
 ### Introduction
