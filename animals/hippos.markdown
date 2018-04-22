@@ -4,6 +4,36 @@ title: Hippopotamus
 common_name: Hippopotamus
 type: Mammal
 red_list_status: Least Concern
+article_images:
+- caption: African hippo
+  credit: Mcherevan,Shutterstock
+  image_thumb: IHYS1ZVR-thumb.jpg
+  image_small: IHYS1ZVR-720w.jpg
+  image_large: IHYS1ZVR-1920w1280h.jpg
+  image_type: content_and_header
+- caption: Hippo on the run on land in the Masai Mara National Park in Kenya
+  credit: Henk Bogaard,Shutterstock
+  image_thumb: D15H1H6Y-thumb.jpg
+  image_small: D15H1H6Y-720w.jpg
+  image_large: D15H1H6Y-1920w1280h.jpg
+  image_type: content_and_header
+- caption: Hippo open his mouth in the pond. An excellent illustration. Botswana. Okavango Delta.Big plan.
+  credit: GUDKOV ANDREY,Shutterstock
+  image_thumb: HAUUB0RO-thumb.jpg
+  image_small: HAUUB0RO-720w.jpg
+  image_large: HAUUB0RO-1920w1279h.jpg
+  image_type: content_and_header
+- credit: Netta Arobas,Shutterstock
+  image_thumb: SNVOP7BL-thumb.jpg
+  image_small: SNVOP7BL-720w.jpg
+  image_large: SNVOP7BL-1920w1280h.jpg
+  image_type: content_and_header
+- caption: Two hippo calfs in Saint Lucia, South Africa.
+  credit: Jens Goos,Shutterstock
+  image_thumb: VHKPSAU0-thumb.jpg
+  image_small: VHKPSAU0-720w.jpg
+  image_large: VHKPSAU0-1920w1280h.jpg
+  image_type: content_and_header
 ---
 
 ### Introduction
