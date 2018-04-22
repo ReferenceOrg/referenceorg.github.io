@@ -4,6 +4,43 @@ title: Elephants
 common_name: Elephants
 type: Mammal
 red_list_status: Least Concern
+article_images:
+- caption: Elephants
+  credit: Craig Morrison,Shutterstock
+  image_thumb: 82492H02-thumb.jpg
+  image_small: 82492H02-720w.jpg
+  image_large: 82492H02-1920w1227h.jpg
+  image_type: content_and_header
+- caption: African Elephants in Africa
+  credit: tobkatrina,Shutterstock
+  image_thumb: T5MN23SS-thumb.jpg
+  image_small: T5MN23SS-720w.jpg
+  image_large: T5MN23SS-1920w1280h.jpg
+  image_type: content_and_header
+- caption: Swimming African Elephant Underwater
+  credit: Willyam Bradberry,Shutterstock
+  image_thumb: P8S57LAH-thumb.jpg
+  image_small: P8S57LAH-720w.jpg
+  image_large: P8S57LAH-1920w1280h.jpg
+  image_type: content_and_header
+- caption: African elephants in Tsavo Park in Kenya
+  credit: kyslynskyyhal,Shutterstock
+  image_thumb: NWCFLKF1-thumb.jpg
+  image_small: NWCFLKF1-720w.jpg
+  image_large: NWCFLKF1-1920w1260h.jpg
+  image_type: content_and_header
+- caption: Wild Asian elephant mother and calf, Corbett National Park, India.
+  credit: Mogens Trolle,Shutterstock
+  image_thumb: L5Z38XP7-thumb.jpg
+  image_small: L5Z38XP7-720w.jpg
+  image_large: L5Z38XP7-1920w1280h.jpg
+  image_type: content_and_header
+- caption: Excited baby African elephant
+  credit: Four Oaks,Shutterstock
+  image_thumb: W7MGV17L-thumb.jpg
+  image_small: W7MGV17L-720w.jpg
+  image_large: W7MGV17L-1920w1352h.jpg
+  image_type: content_and_header
 ---
 
 ### Introduction
