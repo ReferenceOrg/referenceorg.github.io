@@ -4,6 +4,37 @@ common_name: Zebra
 scientific_name: Zebra
 type: Mammal
 red_list_status: Least Concern
+article_images:
+- caption: Close up from a zebra
+  credit: Chantal de Bruijne,Shutterstock
+  image_thumb: QVW3RBK1-thumb.jpg
+  image_small: QVW3RBK1-720w.jpg
+  image_large: QVW3RBK1-1920w1619h.jpg
+  image_type: content_and_header
+- caption: Zebra on grassland in Africa, National park of Kenya
+  credit: Volodymyr Burdiak,Shutterstock
+  image_thumb: 9J8Y8X9C-thumb.jpg
+  image_small: 9J8Y8X9C-720w.jpg
+  image_large: 9J8Y8X9C-1920w1278h.jpg
+  image_type: content_and_header
+- caption: Zebra (Equus burchell's) running and jumping - Kruger National park (South Africa)
+  credit: Mari Swanepoel,Shutterstock
+  image_thumb: 6XDMQRQ4-thumb.jpg
+  image_small: 6XDMQRQ4-720w.jpg
+  image_large: 6XDMQRQ4-1920w1281h.jpg
+  image_type: content_and_header
+- caption: "a 2 week old zebra with his older 'brother' "
+  credit: Natalie Shuttleworth,Shutterstock
+  image_thumb: L37WXCEK-thumb.jpg
+  image_small: L37WXCEK-720w.jpg
+  image_large: L37WXCEK-1920w1280h.jpg
+  image_type: content_and_header
+- caption: Zebra at sunset in the Serengeti National Park. Africa. Tanzania.
+  credit: Delbars,Shutterstock
+  image_thumb: HWYEERHT-thumb.jpg
+  image_small: HWYEERHT-720w.jpg
+  image_large: HWYEERHT-1920w1280h.jpg
+  image_type: content_and_header
 ---
 
 ### Introduction
