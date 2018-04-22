@@ -1,5 +1,6 @@
 ---
 layout: animal_category
+title: Zebra
 common_name: Zebra
 scientific_name: Zebra
 type: Mammal
