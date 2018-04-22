@@ -4,6 +4,43 @@ title: Lizards
 common_name: Lizards
 type: Reptile
 red_list_status: Least Concern
+article_images:
+- caption: Frilled Lizard (Chlamydosaurus kingii) on termite mound
+  credit: Matt Cornish,Shutterstock
+  image_thumb: J5YVH617-thumb.jpg
+  image_small: J5YVH617-720w.jpg
+  image_large: J5YVH617-1920w1280h.jpg
+  image_type: content_and_header
+- caption: Texas Horned Lizard, Phrynosoma cornutum, adult, Willacy County, Rio Grande Valley, Texas, USA,
+  credit: Danita Delmont,Shutterstock
+  image_thumb: DR4B19TW-thumb.jpg
+  image_small: DR4B19TW-720w.jpg
+  image_large: DR4B19TW-1920w1275h.jpg
+  image_type: content_and_header
+- caption: Green skin lizard looking (Chinese water dragon)
+  credit: Dangdumrong,Shutterstock
+  image_thumb: 06E8GD0M-thumb.jpg
+  image_small: 06E8GD0M-720w.jpg
+  image_large: 06E8GD0M-1920w1280h.jpg
+  image_type: content_and_header
+- caption: Green Crested Lizard
+  credit: Zety Akhzar,Shutterstock
+  image_thumb: O5WGNWAR-thumb.jpg
+  image_small: O5WGNWAR-720w.jpg
+  image_large: O5WGNWAR-1920w1196h.jpg
+  image_type: content_and_header
+- caption: Blue Crested Lizard
+  credit: Max Nakhorn,Shutterstock
+  image_thumb: 4IO6NOF7-thumb.jpg
+  image_small: 4IO6NOF7-720w.jpg
+  image_large: 4IO6NOF7-1920w1280h.jpg
+  image_type: content_and_header
+- caption: Green gecko
+  credit: Fedor Selivanov,Shutterstock
+  image_thumb: HZAKDESH-thumb.jpg
+  image_small: HZAKDESH-720w.jpg
+  image_large: HZAKDESH-1920w1440h.jpg
+  image_type: content_and_header
 ---
 
 ### Introduction
