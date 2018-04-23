@@ -48,21 +48,6 @@ layout: reference_white
 
 
 
-    
-    
-    
-    
-    
-    
-
-
-
-
-
-
-
-
-
     <div class="mb-3 mt-5">
         <h5 class="heading">Animal Categories</h5>
         <div class="sub-heading">Explore by our subject categories.</div>
@@ -139,31 +124,25 @@ layout: reference_white
 
 </div>
 
-    <div class="home">
-        {%- if page.title -%}
-        <h1 class="page-heading">{{ page.title }}</h1>
-        {%- endif -%}
 
-        {{ content }}
-        {%- if site.posts.size > 0 -%}
-        <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
-        <ul class="post-list">
-            {%- for post in site.posts -%}
-            <li>
-                {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-                <span class="post-meta">{{ post.date | date: date_format }}</span>
-                <h3>
-                    <a class="post-link" href="{{ post.url | relative_url }}">
-                        {{ post.title | escape }}
-                    </a>
-                </h3>
-                {%- if site.show_excerpts -%}
-                {{ post.excerpt }}
-                {%- endif -%}
-            </li>
-            {%- endfor -%}
-        </ul>
-        <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
-        {%- endif -%}
 
-    </div>
+
+<div class="home">
+    <h4>Mammal Categories</h4>
+    {% assign sorted_pages = site.pages | sort:"title" %}
+    {% for page in sorted_pages %}
+    {% if page.type == "Mammal" %}
+    <div><a href="{{ page.url }}">{{ page.title }}</a></div>
+    {% endif %}
+    {% endfor %}
+</div>
+
+<div class="home">
+    <h4>Reptile Categories</h4>
+    {% assign sorted_pages = site.pages | sort:"title" %}
+    {% for page in sorted_pages %}
+    {% if page.type == "Reptile" %}
+    <div><a href="{{ page.url }}">{{ page.title }}</a></div>
+    {% endif %}
+    {% endfor %}
+</div>
