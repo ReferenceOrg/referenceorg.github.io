@@ -1,0 +1,15 @@
+---
+layout: animal_category
+title: Bugs
+common_name: Bugs
+type: Arthropod
+red_list_status: Least Concern
+---
+
+Bug (insect), name properly applied to any member of a particular order of insects, including bed bugs, lace bugs, red bugs, squash bugs, chinch bugs, and many so-called water bugs. These are the true bugs, although the name bug is sometimes loosely used to refer to their close relatives—members of the order including the cicadas, aphids, tree hoppers, lantern flies, mealybugs, white flies, and scale insects. The name bug is also often incorrectly applied to beetles (for example, ladybug and potatobug), to other insects (doodlebug), and even to animals that are not insects (sow bug and pill bug).
+
+In the true bugs the basal half of the wing is usually thickened like the wing covers of beetles, although the tips of the wings are membranous—that is, they consist of a thin layer of tissue. In the order of aphids and cicadas the entire wing is membranous. Both orders are characterized by sucking mouthparts in the form of well-developed beaks. Although a few, such as bed bugs, are parasitic on vertebrates, most bugs subsist on plant juices, and many are among the most economically harmful of insects. A few bugs, such as the assassin bug, are predatory and are therefore useful in the biological control of pests. In some tropical countries certain bugs, such as the cochineal insects, are cultivated for the valuable dye they secrete.
+
+The metamorphosis of most bugs is an incomplete process—that is, the larvae develop gradually into adults without any intervening pupal stage. The methods of reproduction of some bugs are unusual and complicated. The eggs of some aphid species, for example, hatch during the spring into wingless females; these females reproduce by parthogenesis—that is, without males. After several such generations within one season on one kind of plant, the eggs hatch into winged females that then fly to a different plant and reproduce more wingless females. In the latter part of the season more winged females are produced, and they migrate back to the original species of host plant. Only late in the season are males and females produced that have the ability to reproduce sexually. The eggs from the mating of these insects lie dormant during the winter months and hatch in the following spring to begin a new cycle.
+
+Some bugs are very large; certain aquatic species reach a length of nearly 13 cm (nearly 5 in). Some bugs secrete a substance characteristically pungent, penetrating, and often having a disagreeable smell. Members of the squash-bug, stinkbug, and shield-bug families have a particularly bad odor. Certain plant-sucking bugs cover themselves in their immature stages with a mass of foam known as frog spittle. Some bugs secrete a sweet-tasting fluid called honeydew, and these bugs are often herded, protected, and “milked” for the honeydew by certain species of ants. Some bugs exhibit the unusual characteristic among insects of caring for their young.
