@@ -4,6 +4,25 @@ title: Cockroaches
 common_name: Cockroaches
 type: Arthropod
 red_list_status: Least Concern
+article_images:
+- caption: The American cockroach (Periplaneta americana)
+  credit: Guillermo Guerao Serra,Shutterstock
+  image_thumb: AYNH2YP7-thumb.jpg
+  image_small: AYNH2YP7-720w.jpg
+  image_large: AYNH2YP7-1920w1080h.jpg
+  image_type: content_and_header
+- caption: 'Cockroach '
+  credit: luis2499,Shutterstock
+  image_thumb: 2F6U7KQI-thumb.jpg
+  image_small: 2F6U7KQI-720w.jpg
+  image_large: 2F6U7KQI-1920w1280h.jpg
+  image_type: content_and_header
+- caption: Male of Gromphadorhina portentosa (the hissing cockroach), Madagascar
+  credit: Guillermo Guerao Serra,Shutterstock
+  image_thumb: LKZPDQUK-thumb.jpg
+  image_small: LKZPDQUK-720w.jpg
+  image_large: LKZPDQUK-1920w1277h.jpg
+  image_type: content_and_header
 ---
 
 ### Introduction
