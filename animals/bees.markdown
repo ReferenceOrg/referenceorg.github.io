@@ -4,6 +4,31 @@ title: Bees
 common_name: Bees
 type: Arthropod
 red_list_status: Least Concern
+article_images:
+- caption: Honey Bee
+  credit: Maciej Olszewski,Shutterstock
+  image_thumb: DWX3NKXF-thumb.jpg
+  image_small: DWX3NKXF-720w.jpg
+  image_large: DWX3NKXF-1920w1280h.jpg
+  image_type: content_and_header
+- caption: Honey Bees
+  credit: Maciej Olszewski,Shutterstock
+  image_thumb: 6WS7TJGS-thumb.jpg
+  image_small: 6WS7TJGS-720w.jpg
+  image_large: 6WS7TJGS-1920w1275h.jpg
+  image_type: content_and_header
+- caption: Honey Bee
+  credit: Cornel Constantin,Shutterstock
+  image_thumb: 4SF2JVDI-thumb.jpg
+  image_small: 4SF2JVDI-720w.jpg
+  image_large: 4SF2JVDI-1920w1280h.jpg
+  image_type: content_and_header
+- caption: Bumble Bee on thistle
+  credit: silvergull,Shutterstock
+  image_thumb: 63PQA6HN-thumb.jpg
+  image_small: 63PQA6HN-720w.jpg
+  image_large: 63PQA6HN-1920w1280h.jpg
+  image_type: content_and_header
 ---
 
 ### Introduction
