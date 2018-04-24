@@ -4,6 +4,31 @@ title: Beetles
 common_name: Beetles
 type: Arthropod
 red_list_status: Least Concern
+article_images:
+- caption: Five-horned rhinoceros beetle (Eupatorus gracilicornis) also known as Hercules beetle
+  credit: Mark Brandon,Shutterstock
+  image_thumb: JSPEXR5S-thumb.jpg
+  image_small: JSPEXR5S-720w.jpg
+  image_large: JSPEXR5S-1920w1280h.jpg
+  image_type: content_and_header
+- caption: Banded Jewel Beetle(Chrysochroa buqueti rugicollis)
+  credit: Mark Brandon,Shutterstock
+  image_thumb: XSZ4LCQ0-thumb.jpg
+  image_small: XSZ4LCQ0-720w.jpg
+  image_large: XSZ4LCQ0-1920w1280h.jpg
+  image_type: content_and_header
+- caption: Shiny leaf beetle
+  credit: SIMON SHIM,Shutterstock
+  image_thumb: GA4Q48SS-thumb.jpg
+  image_small: GA4Q48SS-720w.jpg
+  image_large: GA4Q48SS-1920w1272h.jpg
+  image_type: content_and_header
+- caption: Ladybug on a daisy
+  credit: sebastianosecondi,Shutterstock
+  image_thumb: TP7U5GEA-thumb.jpg
+  image_small: TP7U5GEA-720w.jpg
+  image_large: TP7U5GEA-1920w1277h.jpg
+  image_type: content_and_header
 ---
 
 ### Introduction

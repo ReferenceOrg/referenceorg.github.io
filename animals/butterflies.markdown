@@ -4,6 +4,37 @@ title: Butterflies
 common_name: Butterflies
 type: Arthropod
 red_list_status: Least Concern
+article_images:
+- caption: 'Monarch butterfly '
+  credit: nanoman,Shutterstock
+  image_thumb: OEYB3B5M-thumb.jpg
+  image_small: OEYB3B5M-720w.jpg
+  image_large: OEYB3B5M-1920w1280h.jpg
+  image_type: content_and_header
+- caption: Blue Morpho, Morpho peleides
+  credit: Ondrej Prosicky,Shutterstock
+  image_thumb: WWE16I63-thumb.jpg
+  image_small: WWE16I63-720w.jpg
+  image_large: WWE16I63-1920w1280h.jpg
+  image_type: content_and_header
+- caption: Butterfly
+  credit: Bedrich Hrstka,Shutterstock
+  image_thumb: MYKAC1SK-thumb.jpg
+  image_small: MYKAC1SK-720w.jpg
+  image_large: MYKAC1SK-1920w1278h.jpg
+  image_type: content_and_header
+- caption: Green swallowtail butterfly, Papilio palinurus
+  credit: Ondrej Prosicky,Shutterstock
+  image_thumb: 97VIULWQ-thumb.jpg
+  image_small: 97VIULWQ-720w.jpg
+  image_large: 97VIULWQ-1920w1280h.jpg
+  image_type: content_and_header
+- caption: Old World swallowtail, Larva, Czech republic
+  credit: Pavel Krasensky,Shutterstock
+  image_thumb: NYQHNP6E-thumb.jpg
+  image_small: NYQHNP6E-720w.jpg
+  image_large: NYQHNP6E-1920w1280h.jpg
+  image_type: content_and_header
 ---
 
 ### Introduction
