@@ -4,6 +4,36 @@ title: Corals
 common_name: Corals
 type: Invertebrate
 red_list_status: Least Concern
+article_images:
+- caption: Stylophora Coral (Stylophora sp.)
+  credit: Vojce,Shutterstock
+  image_thumb: QP4QCK56-thumb.jpg
+  image_small: QP4QCK56-720w.jpg
+  image_large: QP4QCK56-1920w1079h.jpg
+  image_type: content_and_header
+- caption: Euphyllia frogspawn lps coral
+  credit: Vojce,Shutterstock
+  image_thumb: 2513C3CN-thumb.jpg
+  image_small: 2513C3CN-720w.jpg
+  image_large: 2513C3CN-1920w1080h.jpg
+  image_type: content_and_header
+- credit: Norenko Andrey,Shutterstock
+  image_thumb: FKAUPSSN-thumb.jpg
+  image_small: FKAUPSSN-720w.jpg
+  image_large: FKAUPSSN-1920w1280h.jpg
+  image_type: content_and_header
+- caption: Leather "toadstool" coral, Great Barrier Reef, Australia
+  credit: Jen Watson,Shutterstock
+  image_thumb: KYCK7U0I-thumb.jpg
+  image_small: KYCK7U0I-720w.jpg
+  image_large: KYCK7U0I-1920w1272h.jpg
+  image_type: content_and_header
+- caption: Tubastrea, also known as sun coral or sun polyps
+  credit: John A. Anderson,Shutterstock
+  image_thumb: 0WK2TIIY-thumb.jpg
+  image_small: 0WK2TIIY-720w.jpg
+  image_large: 0WK2TIIY-1920w1440h.jpg
+  image_type: content_and_header
 ---
 
 ### Introduction
