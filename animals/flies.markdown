@@ -4,6 +4,31 @@ title: Flies
 common_name: Flies
 type: Arthropod
 red_list_status: Least Concern
+article_images:
+- caption: Blow fly, carrion fly, bluebottles or cluster fly
+  credit: Winai Pantho,Shutterstock
+  image_thumb: PHSS3O3M-thumb.jpg
+  image_small: PHSS3O3M-720w.jpg
+  image_large: PHSS3O3M-1920w1280h.jpg
+  image_type: content_and_header
+- caption: Blow fly
+  credit: Fariq Amin,Shutterstock
+  image_thumb: ZYQIKB2D-thumb.jpg
+  image_small: ZYQIKB2D-720w.jpg
+  image_large: ZYQIKB2D-1920w1280h.jpg
+  image_type: content_and_header
+- caption: Fly compound eye surface
+  credit: Komsan Loonprom,Shutterstock
+  image_thumb: 70ID5RPW-thumb.jpg
+  image_small: 70ID5RPW-720w.jpg
+  image_large: 70ID5RPW-1920w1282h.jpg
+  image_type: content_and_header
+- caption: Male common fruit fly ,Drosophila Melanogaster.
+  credit: Ziga13,Shutterstock
+  image_thumb: 5EHSKDLM-thumb.jpg
+  image_small: 5EHSKDLM-720w.jpg
+  image_large: 5EHSKDLM-1920w1280h.jpg
+  image_type: content_and_header
 ---
 
 ### Introduction

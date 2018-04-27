@@ -4,6 +4,31 @@ title: Jellyfish
 common_name: Jellyfish
 type: Invertebrate
 red_list_status: Least Concern
+article_images:
+- caption: Pink Jellyfish
+  credit: Chai Seamaker,Shutterstock
+  image_thumb: OXGKXC5I-thumb.jpg
+  image_small: OXGKXC5I-720w.jpg
+  image_large: OXGKXC5I-1920w1281h.jpg
+  image_type: content_and_header
+- caption: Jellyfish in action in the aquarium
+  credit: Peppy Graphics,Shutterstock
+  image_thumb: WJ71F7VD-thumb.jpg
+  image_small: WJ71F7VD-720w.jpg
+  image_large: WJ71F7VD-1920w1280h.jpg
+  image_type: content_and_header
+- caption: Brown Jellyfish
+  credit: Takayuki Ohama,Shutterstock
+  image_thumb: 7SS3OQ0H-thumb.jpg
+  image_small: 7SS3OQ0H-720w.jpg
+  image_large: 7SS3OQ0H-1920w1280h.jpg
+  image_type: content_and_header
+- caption: Jellyfish
+  credit: carlotta vitrani,Shutterstock
+  image_thumb: S4HMAXNF-thumb.jpg
+  image_small: S4HMAXNF-720w.jpg
+  image_large: S4HMAXNF-1920w1280h.jpg
+  image_type: content_and_header
 ---
 
 ### Introduction

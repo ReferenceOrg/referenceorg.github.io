@@ -4,6 +4,31 @@ title: Grasshoppers
 common_name: Grasshoppers
 type: Arthropod
 red_list_status: Least Concern
+article_images:
+- caption: Colorful grasshopper on a dry grass stem
+  credit: Ehrman Photographic,Shutterstock
+  image_thumb: R6W80ERO-thumb.jpg
+  image_small: R6W80ERO-720w.jpg
+  image_large: R6W80ERO-1920w1280h.jpg
+  image_type: content_and_header
+- caption: Grasshopper on grass
+  credit: Nuchjaree klaibundit,Shutterstock
+  image_thumb: QF7XM9CX-thumb.jpg
+  image_small: QF7XM9CX-720w.jpg
+  image_large: QF7XM9CX-1920w1280h.jpg
+  image_type: content_and_header
+- caption: Rare Pink colour form of Meadow Grasshopper - Chorthippus parallelus
+  credit: thatmacroguy,Shutterstock
+  image_thumb: XS4BIJO2-thumb.jpg
+  image_small: XS4BIJO2-720w.jpg
+  image_large: XS4BIJO2-1920w1200h.jpg
+  image_type: content_and_header
+- caption: Green grasshopper on black gravel
+  credit: Branko Jovanovic,Shutterstock
+  image_thumb: 1OE4BKVT-thumb.jpg
+  image_small: 1OE4BKVT-720w.jpg
+  image_large: 1OE4BKVT-1920w1280h.jpg
+  image_type: content_and_header
 ---
 
 Grasshopper, common name for any of the winged orthopteran insects with hind legs adapted for jumping. They include the longhorned grasshoppers, pygmy grasshoppers, and shorthorned grasshoppers, or locusts. They subsist on vegetation and are distributed worldwide wherever vegetation grows.
