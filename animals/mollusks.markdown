@@ -4,6 +4,25 @@ title: Mollusks
 common_name: Mollusks
 type: Invertebrate
 red_list_status: Least Concern
+article_images:
+- caption: Cypraea tigris, Tiger Cowry
+  credit: ',Shutterstock'
+  image_thumb: OPEVO5F6-thumb.jpg
+  image_small: OPEVO5F6-720w.jpg
+  image_large: OPEVO5F6-1920w1440h.jpg
+  image_type: content_and_header
+- caption: Orange-mouth Thorny Oyster, Panglao, Philippines
+  credit: Andaman,Shutterstock
+  image_thumb: 0ZA4WL6G-thumb.jpg
+  image_small: 0ZA4WL6G-720w.jpg
+  image_large: 0ZA4WL6G-1920w1420h.jpg
+  image_type: content_and_header
+- caption: Colorful Circular Seashell in Foreground of Scattered Shells on Tunisian Beach
+  credit: Nate Hovee,Shutterstock
+  image_thumb: E7WS8HHB-thumb.jpg
+  image_small: E7WS8HHB-720w.jpg
+  image_large: E7WS8HHB-1920w1280h.jpg
+  image_type: content_and_header
 ---
 
 ### Introduction
