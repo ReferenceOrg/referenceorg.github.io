@@ -4,6 +4,25 @@ title: Dragonflies and Damselflies
 common_name: Dragonflies and Damselflies
 type: Arthropod
 red_list_status: Least Concern
+article_images:
+- caption: Dragonfly
+  credit: Costea Andrea M,Shutterstock
+  image_thumb: P5KT7BSR-thumb.jpg
+  image_small: P5KT7BSR-720w.jpg
+  image_large: P5KT7BSR-1920w1278h.jpg
+  image_type: content_and_header
+- caption: Dragonfly
+  credit: aaltair,Shutterstock
+  image_thumb: X1B35WF7-thumb.jpg
+  image_small: X1B35WF7-720w.jpg
+  image_large: X1B35WF7-1920w1280h.jpg
+  image_type: content_and_header
+- caption: Ruddy Darter Dragonfly perched on stalk, Coleshill Park, Wiltshire, UK
+  credit: Ian_Sherriffs,Shutterstock
+  image_thumb: MXPK6DKN-thumb.jpg
+  image_small: MXPK6DKN-720w.jpg
+  image_large: MXPK6DKN-1920w1280h.jpg
+  image_type: content_and_header
 ---
 
 ### Introduction

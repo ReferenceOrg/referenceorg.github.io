@@ -4,6 +4,43 @@ title: Frogs
 common_name: Frogs
 type: Amphibian
 red_list_status: Least Concern
+article_images:
+- caption: Red-Eyed Amazon Tree Frog (Agalychnis Callidryas)
+  credit: davemhuntphotography,Shutterstock
+  image_thumb: V7DZS9XJ-thumb.jpg
+  image_small: V7DZS9XJ-720w.jpg
+  image_large: V7DZS9XJ-1920w1278h.jpg
+  image_type: content_and_header
+- caption: Tropical poison dart frog from the rain forest of Panama
+  credit: Dirk Ercken,Shutterstock
+  image_thumb: 8ZEHF6XL-thumb.jpg
+  image_small: 8ZEHF6XL-720w.jpg
+  image_large: 8ZEHF6XL-1920w1280h.jpg
+  image_type: content_and_header
+- caption: Amazonian Poison dart Frog, Ranitomeya ventrimaculata
+  credit: Dirk Ercken,Shutterstock
+  image_thumb: 5MMG4GR8-thumb.jpg
+  image_small: 5MMG4GR8-720w.jpg
+  image_large: 5MMG4GR8-1920w1280h.jpg
+  image_type: content_and_header
+- caption: Blue and yellow Amazon Dyeing Poison Frog, Dendrobates tinctorius
+  credit: Ondrej Prosicky,Shutterstock
+  image_thumb: 25WYGKBV-thumb.jpg
+  image_small: 25WYGKBV-720w.jpg
+  image_large: 25WYGKBV-1920w1280h.jpg
+  image_type: content_and_header
+- caption: Red Strawberry poison dart frog, Dendrobates pumilio
+  credit: Ondrej Prosicky,Shutterstock
+  image_thumb: NEXN7CU8-thumb.jpg
+  image_small: NEXN7CU8-720w.jpg
+  image_large: NEXN7CU8-1920w1280h.jpg
+  image_type: content_and_header
+- caption: Red poison dart tree frog
+  credit: Beth Ruggiero-York,Shutterstock
+  image_thumb: C9FGMIR9-thumb.jpg
+  image_small: C9FGMIR9-720w.jpg
+  image_large: C9FGMIR9-1920w1456h.jpg
+  image_type: content_and_header
 ---
 
 ### Introduction
