@@ -4,6 +4,31 @@ title: Octopus
 common_name: Octopus
 type: Invertebrate
 red_list_status: Least Concern
+article_images:
+- caption: Octopus
+  credit: Kondratuk Aleksei,Shutterstock
+  image_thumb: NVZBUHGG-thumb.jpg
+  image_small: NVZBUHGG-720w.jpg
+  image_large: NVZBUHGG-1920w1281h.jpg
+  image_type: content_and_header
+- caption: Octopus
+  credit: Olga Visavi,Shutterstock
+  image_thumb: HCI8M11J-thumb.jpg
+  image_small: HCI8M11J-720w.jpg
+  image_large: HCI8M11J-1920w1275h.jpg
+  image_type: content_and_header
+- caption: The Deadly Blue Ringed Octopus
+  credit: YUSRAN ABDUL RAHMAN,Shutterstock
+  image_thumb: RYWW7KU4-thumb.jpg
+  image_small: RYWW7KU4-720w.jpg
+  image_large: RYWW7KU4-1920w1422h.jpg
+  image_type: content_and_header
+- caption: 'Big Red Octopus (Octopus cyaneus) '
+  credit: Rich Carey,Shutterstock
+  image_thumb: QKLL8GH3-thumb.jpg
+  image_small: QKLL8GH3-720w.jpg
+  image_large: QKLL8GH3-1920w1280h.jpg
+  image_type: content_and_header
 ---
 
 Octopus, carnivorous marine mollusk, found worldwide in tropical and warm temperate waters. The octopus is characterized by a soft body with a well-developed brain and by eight arms bearing two rows of suckers each. As in the vertebrates, the two large, complex eyes of the octopus are cameralike in structure, and their vision is acute. The animals can change the color and texture of their skin rapidly. Much of their life is spent in hiding, and many species—such as the common octopus, which can grow to about 1 m (about 3 ft) long—choose a natural hole among rocks or in a pile of rubble. A small species, however, such as the Atlantic pygmy octopus, which is 10 cm (about 4 in) long, may prefer an empty clamshell having both valves still connected by a ligament; settling into one half, it pulls the shell shut with its suckers.
