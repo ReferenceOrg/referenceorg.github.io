@@ -4,6 +4,36 @@ title: Crustaceans
 common_name: Crustaceans
 type: Arthropod
 red_list_status: Least Concern
+article_images:
+- credit: ',Shutterstock'
+  image_thumb: NW0E61RK-thumb.jpg
+  image_small: NW0E61RK-720w.jpg
+  image_large: NW0E61RK-1920w1369h.jpg
+  image_type: content_and_header
+- caption: Sally Lightfoot Crab on white coral Galapagos beach
+  credit: Marquess Kilian Beck,Shutterstock
+  image_thumb: S7MU0E9F-thumb.jpg
+  image_small: S7MU0E9F-720w.jpg
+  image_large: S7MU0E9F-1920w1280h.jpg
+  image_type: content_and_header
+- caption: A single red crab on Christmas Island, an Australian territory in the Indian Ocean
+  credit: KiltedArab,Shutterstock
+  image_thumb: K0S1U688-thumb.jpg
+  image_small: K0S1U688-720w.jpg
+  image_large: K0S1U688-1920w1280h.jpg
+  image_type: content_and_header
+- caption: Giant Japanese spider crab
+  credit: f11photo,Shutterstock
+  image_thumb: CC65EVUZ-thumb.jpg
+  image_small: CC65EVUZ-720w.jpg
+  image_large: CC65EVUZ-1920w1280h.jpg
+  image_type: content_and_header
+- caption: Tropical Rock lobster
+  credit: Gilmanshin,Shutterstock
+  image_thumb: EQH657LL-thumb.jpg
+  image_small: EQH657LL-720w.jpg
+  image_large: EQH657LL-1920w1276h.jpg
+  image_type: content_and_header
 ---
 
 ### INTRODUCTION 
