@@ -146,3 +146,44 @@ layout: reference_white
     {% endif %}
     {% endfor %}
 </div>
+
+<div class="home">
+    <h4>Invertebrates Categories</h4>
+    {% assign sorted_pages = site.pages | sort:"title" %}
+    {% for page in sorted_pages %}
+    {% if page.type == "Invertebrate" %}
+    <div><a href="{{ page.url }}">{{ page.title }}</a></div>
+    {% endif %}
+    {% endfor %}
+</div>
+
+<div class="home">
+    <h4>Amphibian Categories</h4>
+    {% assign sorted_pages = site.pages | sort:"title" %}
+    {% for page in sorted_pages %}
+    {% if page.type == "Amphibian" %}
+    <div><a href="{{ page.url }}">{{ page.title }}</a></div>
+    {% endif %}
+    {% endfor %}
+</div>
+
+<div class="home">
+    <h4>Bird Categories</h4>
+    {% assign sorted_pages = site.pages | sort:"title" %}
+    {% for page in sorted_pages %}
+    {% if page.type == "Bird" %}
+    <div><a href="{{ page.url }}">{{ page.title }}</a></div>
+    {% endif %}
+    {% endfor %}
+</div>
+
+
+<div class="home">
+    <h4>Fish Categories</h4>
+    {% assign sorted_pages = site.pages | sort:"title" %}
+    {% for page in sorted_pages %}
+    {% if page.type == "Fish" %}
+    <div><a href="{{ page.url }}">{{ page.title }}</a></div>
+    {% endif %}
+    {% endfor %}
+</div>
