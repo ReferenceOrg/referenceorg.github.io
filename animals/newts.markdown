@@ -4,6 +4,25 @@ title: Newts
 common_name: Newts
 type: Amphibian
 red_list_status: Least Concern
+article_images:
+- caption: Alpine Newt
+  credit: Bildagentur Zoonar GmbH,Shutterstock
+  image_thumb: NPSOEQIM-thumb.jpg
+  image_small: NPSOEQIM-720w.jpg
+  image_large: NPSOEQIM-1920w1280h.jpg
+  image_type: content_only
+- caption: 'Crested Newt '
+  credit: Dirk Ercken,Shutterstock
+  image_thumb: HAOWWJQL-thumb.jpg
+  image_small: HAOWWJQL-720w.jpg
+  image_large: HAOWWJQL-1920w1280h.jpg
+  image_type: content_only
+- caption: Eastern Red-spotted Newt
+  credit: gary powell,Shutterstock
+  image_thumb: HXJB3TF7-thumb.jpg
+  image_small: HXJB3TF7-720w.jpg
+  image_large: HXJB3TF7-1920w1155h.jpg
+  image_type: content_only
 ---
 
 Newt, common name applied generally to certain members of a family of relatively small salamanders, most of which spend at least part of their lives in water. The many species are widely distributed throughout the temperate regions of the northern hemisphere. Newts often are brightly colored and active, and most are about 8 to 14 cm (about 3 to 5.5 in) long.
