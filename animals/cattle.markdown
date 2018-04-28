@@ -2,7 +2,7 @@
 layout: animal_category
 title: Cattle
 common_name: Cattle
-type: Invertebrate
+type: Mammal
 red_list_status: Least Concern
 article_images:
 - caption: Highland Cattle
