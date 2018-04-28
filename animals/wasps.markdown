@@ -4,6 +4,25 @@ title: Wasps
 common_name: Wasps
 type: Arthropod
 red_list_status: Least Concern
+article_images:
+- caption: Female Paper Wasp
+  credit: Pavel Krasensky,Shutterstock
+  image_thumb: BJ7HXCZJ-thumb.jpg
+  image_small: BJ7HXCZJ-720w.jpg
+  image_large: BJ7HXCZJ-1920w1280h.jpg
+  image_type: content_and_header
+- caption: Wasp nest
+  credit: Leonid Eremeychuk,Shutterstock
+  image_thumb: A0QASL5D-thumb.jpg
+  image_small: A0QASL5D-720w.jpg
+  image_large: A0QASL5D-1920w1280h.jpg
+  image_type: content_and_header
+- caption: Wasp with wide open mandibles
+  credit: Denis Vesely,Shutterstock
+  image_thumb: T0KPG86B-thumb.jpg
+  image_small: T0KPG86B-720w.jpg
+  image_large: T0KPG86B-1920w1280h.jpg
+  image_type: content_and_header
 ---
 
 ### Introduction

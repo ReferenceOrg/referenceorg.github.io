@@ -4,6 +4,19 @@ title: Squid
 common_name: Squid
 type: Invertebrate
 red_list_status: Least Concern
+article_images:
+- caption: 'Squid '
+  credit: uatari,Shutterstock
+  image_thumb: VZ60IRR6-thumb.jpg
+  image_small: VZ60IRR6-720w.jpg
+  image_large: VZ60IRR6-1920w1280h.jpg
+  image_type: content_and_header
+- caption: Red squid
+  credit: Konstantin Novikov,Shutterstock
+  image_thumb: S4X8XONV-thumb.jpg
+  image_small: S4X8XONV-720w.jpg
+  image_large: S4X8XONV-1920w1278h.jpg
+  image_type: content_and_header
 ---
 
 Squid, a carnivorous mollusk belonging to the same class as the nautilus, cuttlefish, and octopus (see Cephalopod).

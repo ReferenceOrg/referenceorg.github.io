@@ -4,6 +4,25 @@ title: Toads
 common_name: Toads
 type: Amphibian
 red_list_status: Least Concern
+article_images:
+- caption: European toad
+  credit: Eileen Kumpf,Shutterstock
+  image_thumb: 6CJVHIXQ-thumb.jpg
+  image_small: 6CJVHIXQ-720w.jpg
+  image_large: 6CJVHIXQ-1920w1280h.jpg
+  image_type: content_and_header
+- caption: Cane Toad - Bufo marinus
+  credit: Seregraff,Shutterstock
+  image_thumb: UKY06E30-thumb.jpg
+  image_small: UKY06E30-720w.jpg
+  image_large: UKY06E30-1920w1280h.jpg
+  image_type: content_and_header
+- caption: Giant River Toad (Phrynoidis asper)
+  credit: Vince Adam,Shutterstock
+  image_thumb: 8UVQHS4D-thumb.jpg
+  image_small: 8UVQHS4D-720w.jpg
+  image_large: 8UVQHS4D-1920w1280h.jpg
+  image_type: content_and_header
 ---
 
 Toad, group of froglike amphibians that are usually distinguished from frogs by the roughness of the skin, due to a large number of glandular tubercules, and by the shorter hind legs. In the tropics, where most anuran (members of the order comprising the frogs, toads, and tree toads) species occur, however, the differences are harder to determine, and some species could qualify as either toads or frogs.
