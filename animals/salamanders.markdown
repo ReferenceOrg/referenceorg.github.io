@@ -4,6 +4,31 @@ title: Salamanders
 common_name: Salamanders
 type: Amphibian
 red_list_status: Least Concern
+article_images:
+- caption: Corsican fire salamander
+  credit: Beatrice Prezzemoli,Shutterstock
+  image_thumb: 1X5OZF61-thumb.jpg
+  image_small: 1X5OZF61-720w.jpg
+  image_large: 1X5OZF61-1920w1280h.jpg
+  image_type: content_and_header
+- caption: Lanza Alpine Salamander (Salamandra lanzai)
+  credit: Marco Maggesi,Shutterstock
+  image_thumb: 99Z49HUA-thumb.jpg
+  image_small: 99Z49HUA-720w.jpg
+  image_large: 99Z49HUA-1920w1272h.jpg
+  image_type: content_and_header
+- caption: "Speleomantes strinatii (Strinati's cave salamander) "
+  credit: Federico.Crovetto,Shutterstock
+  image_thumb: 3GTWV084-thumb.jpg
+  image_small: 3GTWV084-720w.jpg
+  image_large: 3GTWV084-1920w1275h.jpg
+  image_type: content_and_header
+- caption: Western tiger salamander (Ambystoma mavortium)
+  credit: reptiles4all,Shutterstock
+  image_thumb: TCMSQW4U-thumb.jpg
+  image_small: TCMSQW4U-720w.jpg
+  image_large: TCMSQW4U-1920w1281h.jpg
+  image_type: content_and_header
 ---
 
 ### Introduction
