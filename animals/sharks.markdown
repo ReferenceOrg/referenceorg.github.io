@@ -4,6 +4,25 @@ title: Sharks
 common_name: Sharks
 type: Fish
 red_list_status: Least Concern
+article_images:
+- caption: Great white shark swimming just under the surface at Guadalupe Island Mexico
+  credit: wildestanimal,Shutterstock
+  image_thumb: 78ER4WP1-thumb.jpg
+  image_small: 78ER4WP1-720w.jpg
+  image_large: 78ER4WP1-1920w1212h.jpg
+  image_type: content_and_header
+- caption: Hammerhead shark
+  credit: frantisekhojdysz,Shutterstock
+  image_thumb: 0CL040WX-thumb.jpg
+  image_small: 0CL040WX-720w.jpg
+  image_large: 0CL040WX-1920w1516h.jpg
+  image_type: content_and_header
+- caption: Bull shark
+  credit: Ian Scott,Shutterstock
+  image_thumb: AKNIES6Y-thumb.jpg
+  image_small: AKNIES6Y-720w.jpg
+  image_large: AKNIES6Y-1920w1280h.jpg
+  image_type: content_and_header
 ---
 
 ### Introduction
