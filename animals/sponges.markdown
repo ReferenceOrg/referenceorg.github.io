@@ -4,6 +4,25 @@ title: Sponges
 common_name: Sponges
 type: Invertebrate
 red_list_status: Least Concern
+article_images:
+- caption: Coral reef with sponge
+  credit: Jolanta Wojcicka,Shutterstock
+  image_thumb: OZK2UXW7-thumb.jpg
+  image_small: OZK2UXW7-720w.jpg
+  image_large: OZK2UXW7-1920w1440h.jpg
+  image_type: content_and_header
+- caption: 'Yellow sea sponge '
+  credit: Jolanta Wojcicka,Shutterstock
+  image_thumb: LYF96U0E-thumb.jpg
+  image_small: LYF96U0E-720w.jpg
+  image_large: LYF96U0E-1920w1280h.jpg
+  image_type: content_and_header
+- caption: Tube Sponge (Aplysina fustularis)
+  credit: scubaluna,Shutterstock
+  image_thumb: JJXIKKMD-thumb.jpg
+  image_small: JJXIKKMD-720w.jpg
+  image_large: JJXIKKMD-1920w1440h.jpg
+  image_type: content_and_header
 ---
 
 ### Introduction

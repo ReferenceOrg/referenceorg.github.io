@@ -4,6 +4,25 @@ title: Spiders
 common_name: Spiders
 type: Arthropod
 red_list_status: Least Concern
+article_images:
+- caption: Funnel Spider
+  credit: Amith Nag,Shutterstock
+  image_thumb: XSCBX7G8-thumb.jpg
+  image_small: XSCBX7G8-720w.jpg
+  image_large: XSCBX7G8-1920w1280h.jpg
+  image_type: content_and_header
+- caption: Black Widow Spider
+  credit: Jay Ondreicka,Shutterstock
+  image_thumb: IVXO2VDB-thumb.jpg
+  image_small: IVXO2VDB-720w.jpg
+  image_large: IVXO2VDB-1920w1280h.jpg
+  image_type: content_and_header
+- caption: 'Rose Hair Tarantula '
+  credit: reisegraf.ch,Shutterstock
+  image_thumb: G2X4X0AH-thumb.jpg
+  image_small: G2X4X0AH-720w.jpg
+  image_large: G2X4X0AH-1920w1278h.jpg
+  image_type: content_and_header
 ---
 
 ### INTRODUCTION 

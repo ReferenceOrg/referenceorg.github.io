@@ -4,6 +4,25 @@ title: Snails
 common_name: Snails
 type: Invertebrate
 red_list_status: Least Concern
+article_images:
+- caption: Burgundy snail (Helix, escargot)
+  credit: Yevhenii Chulovskyi,Shutterstock
+  image_thumb: 4Y22S9VO-thumb.jpg
+  image_small: 4Y22S9VO-720w.jpg
+  image_large: 4Y22S9VO-1920w1280h.jpg
+  image_type: content_and_header
+- caption: Green Snail
+  credit: yuanann,Shutterstock
+  image_thumb: CQI648YF-thumb.jpg
+  image_small: CQI648YF-720w.jpg
+  image_large: CQI648YF-1920w1277h.jpg
+  image_type: content_and_header
+- caption: Snail
+  credit: Ivan Marjanovic,Shutterstock
+  image_thumb: YZ0DT6ME-thumb.jpg
+  image_small: YZ0DT6ME-720w.jpg
+  image_large: YZ0DT6ME-1920w1278h.jpg
+  image_type: content_and_header
 ---
 
 Snail, any of as many as 50,000 marine, freshwater, and terrestrial species of mollusk. Gastropods (literally, belly-footed animals) have been able to adapt their singular means of locomotion to a wide range of water and land habitats, from the depths and shorelines of oceans to all bodies of fresh water, and from tropical areas to mountains and deserts.
