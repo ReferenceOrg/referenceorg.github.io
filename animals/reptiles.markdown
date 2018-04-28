@@ -4,6 +4,31 @@ title: Reptiles
 common_name: Reptiles
 type: Reptile
 red_list_status: Least Concern
+article_images:
+- caption: Sea turtle
+  credit: Davdeka,Shutterstock
+  image_thumb: K9XVAIFQ-thumb.jpg
+  image_small: K9XVAIFQ-720w.jpg
+  image_large: K9XVAIFQ-1920w1405h.jpg
+  image_type: content_and_header
+- caption: Viper snake
+  credit: agus fitriyanto suratno,Shutterstock
+  image_thumb: J1RA4B81-thumb.jpg
+  image_small: J1RA4B81-720w.jpg
+  image_large: J1RA4B81-1920w1280h.jpg
+  image_type: content_and_header
+- caption: Crocodile
+  credit: Kurit afshen,Shutterstock
+  image_thumb: M1T69PQV-thumb.jpg
+  image_small: M1T69PQV-720w.jpg
+  image_large: M1T69PQV-1920w1280h.jpg
+  image_type: content_and_header
+- caption: Frilled Lizard (Chlamydosaurus kingii)
+  credit: Matt Cornish,Shutterstock
+  image_thumb: IS2SWZQK-thumb.jpg
+  image_small: IS2SWZQK-720w.jpg
+  image_large: IS2SWZQK-1920w1280h.jpg
+  image_type: content_and_header
 ---
 
 ### Introduction
