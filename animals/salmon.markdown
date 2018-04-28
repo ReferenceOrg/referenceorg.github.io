@@ -4,6 +4,31 @@ title: Salmon
 common_name: Salmon
 type: Fish
 red_list_status: Least Concern
+article_images:
+- caption: Salmon trout (Oncorhynchus mykiss)
+  credit: Pukhov K, Shutterstock
+  image_thumb: KGIHFTCG-thumb.jpg
+  image_small: KGIHFTCG-720w.jpg
+  image_large: KGIHFTCG-1920w1275h.jpg
+  image_type: content_and_header
+- caption: Wild male and female red salmon in river before spawning
+  credit: Vasik Olga,Shutterstock
+  image_thumb: 51790VVB-thumb.jpg
+  image_small: 51790VVB-720w.jpg
+  image_large: 51790VVB-1920w1317h.jpg
+  image_type: content_and_header
+- caption: Salmon race
+  credit: Aristokrates,Shutterstock
+  image_thumb: 81ZQG3ZA-thumb.jpg
+  image_small: 81ZQG3ZA-720w.jpg
+  image_large: 81ZQG3ZA-1920w1280h.jpg
+  image_type: content_and_header
+- caption: Salmon Jumping Up the Brooks Falls at Katmai National Park, Alaska
+  credit: Sekar B,Shutterstock
+  image_thumb: ZB5W3OKM-thumb.jpg
+  image_small: ZB5W3OKM-720w.jpg
+  image_large: ZB5W3OKM-1920w1303h.jpg
+  image_type: content_and_header
 ---
 
 ### Introduction
