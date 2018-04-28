@@ -4,6 +4,25 @@ title: Termites
 common_name: Termites
 type: Arthropod
 red_list_status: Least Concern
+article_images:
+- caption: Worker termites
+  credit: BEJITA,Shutterstock
+  image_thumb: BSVNC16D-thumb.jpg
+  image_small: BSVNC16D-720w.jpg
+  image_large: BSVNC16D-1920w1280h.jpg
+  image_type: content_and_header
+- caption: Termite
+  credit: Mr.Parichat chaikuad,Shutterstock
+  image_thumb: MGH505Y3-thumb.jpg
+  image_small: MGH505Y3-720w.jpg
+  image_large: MGH505Y3-1920w1272h.jpg
+  image_type: content_and_header
+- caption: Action termite
+  credit: khlungcenter,Shutterstock
+  image_thumb: GIQB62R5-thumb.jpg
+  image_small: GIQB62R5-720w.jpg
+  image_large: GIQB62R5-1920w1280h.jpg
+  image_type: content_and_header
 ---
 
 ### Introduction
