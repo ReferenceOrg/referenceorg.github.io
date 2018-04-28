@@ -2,7 +2,7 @@
 layout: animal_category
 title: Chameleons
 common_name: Chameleons
-type: Invertebrate
+type: Reptile
 red_list_status: Least Concern
 article_images:
 - caption: Veiled Chameleon

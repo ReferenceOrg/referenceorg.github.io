@@ -2,7 +2,7 @@
 layout: animal_category
 title: Giraffe
 common_name: Giraffe
-type: Invertebrate
+type: Mammal
 red_list_status: Least Concern
 article_images:
 - caption: Giraffe Family
