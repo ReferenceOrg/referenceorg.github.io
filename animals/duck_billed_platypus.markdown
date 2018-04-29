@@ -4,6 +4,7 @@ title: Duck-billed platypus
 common_name: Duck-billed platypus
 scientific_name: Ornithorhynchus anatinus
 type: Mammal
+subtype: Marsupials
 lifespan: 17 Years
 size: 24 in (60 cm)
 weight: 5½ lb (2.5 kg)

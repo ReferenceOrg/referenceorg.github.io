@@ -4,6 +4,7 @@ title: Doria’s Tree Kangaroo
 common_name: Doria’s Tree Kangaroo
 scientific_name: Dendrolagus dorianus
 type: Mammal
+subtype: Marsupials
 lifespan: 10 Years
 size: 31 in (78 cm)
 weight: 32 lb (14.5 kg)
