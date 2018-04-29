@@ -5,7 +5,8 @@ common_name: Crustaceans
 type: Arthropod
 red_list_status: Least Concern
 article_images:
-- credit: ',Shutterstock'
+- caption: 
+  credit: ',Shutterstock'
   image_thumb: NW0E61RK-thumb.jpg
   image_small: NW0E61RK-720w.jpg
   image_large: NW0E61RK-1920w1369h.jpg

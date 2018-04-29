@@ -11,15 +11,21 @@ weight: 500 lbs - 220 Kg
 distribution: Africa
 red_list_status: Least Concern
 article_images:
-- image_thumb: croc-3-thumb.jpg
+- caption: 
+  credit: 
+  image_thumb: croc-3-thumb.jpg
   image_small: croc-3-720w.jpg
   image_large: croc-3-1920w1440h.jpg
   image_type: content_and_header
-- image_thumb: croc-2-thumb.jpg
+- caption: 
+  credit: 
+  image_thumb: croc-2-thumb.jpg
   image_small: croc-2-720w.jpg
   image_large: croc-2-1920w1280h.jpg
   image_type: content_and_header
-- image_thumb: croc-1-thumb.jpg
+- caption: 
+  credit: 
+  image_thumb: croc-1-thumb.jpg
   image_small: croc-1-720w.jpg
   image_large: croc-1-1920w1080h.jpg
   image_type: content_and_header

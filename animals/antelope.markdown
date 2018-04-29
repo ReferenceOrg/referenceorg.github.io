@@ -17,7 +17,8 @@ article_images:
   image_small: WJC68EKY-720w.jpg
   image_large: WJC68EKY-1920w1163h.jpg
   image_type: content_and_header
-- credit: ',Shutterstock'
+- caption: 
+  credit: ',Shutterstock'
   image_thumb: KEUYCL3Z-thumb.jpg
   image_small: KEUYCL3Z-720w.jpg
   image_large: KEUYCL3Z-1920w1280h.jpg

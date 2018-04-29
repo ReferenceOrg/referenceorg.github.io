@@ -2,9 +2,7 @@
 layout: animal_category
 title: Apes
 common_name: Apes
-scientific_name: Hominidae
 type: Mammal
-red_list_status: Least Concern
 article_images:
 - caption: A female of the orangutan with a cub in a native habitat. Rainforest of Borneo.
   credit: Sergey Uryadnikov, Shutterstock
@@ -36,7 +34,9 @@ article_images:
   image_small: CA359MCK-720w.jpg
   image_large: CA359MCK-1920w1537h.jpg
   image_type: content_and_header
-- image_thumb: LCL17RXK-thumb.jpg
+- caption: Young Chimpanzee with parent
+  credit: Bidru, Shutterstock
+  image_thumb: LCL17RXK-thumb.jpg
   image_small: LCL17RXK-720w.jpg
   image_large: LCL17RXK-1920w1280h.jpg
   image_type: content_and_header

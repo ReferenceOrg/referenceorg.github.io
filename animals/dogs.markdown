@@ -5,7 +5,8 @@ common_name: Dogs
 type: Mammal
 red_list_status: Least Concern
 article_images:
-- credit: Monika Chodak,Shutterstock
+- caption: 
+  credit: Monika Chodak,Shutterstock
   image_thumb: KWN63S2E-thumb.jpg
   image_small: KWN63S2E-720w.jpg
   image_large: KWN63S2E-1920w1331h.jpg

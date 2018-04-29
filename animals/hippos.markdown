@@ -23,7 +23,8 @@ article_images:
   image_small: HAUUB0RO-720w.jpg
   image_large: HAUUB0RO-1920w1279h.jpg
   image_type: content_and_header
-- credit: Netta Arobas,Shutterstock
+- caption: 
+  credit: Netta Arobas,Shutterstock
   image_thumb: SNVOP7BL-thumb.jpg
   image_small: SNVOP7BL-720w.jpg
   image_large: SNVOP7BL-1920w1280h.jpg

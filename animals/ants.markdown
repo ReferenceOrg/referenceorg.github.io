@@ -5,7 +5,8 @@ common_name: Ants
 type: Arthropod
 red_list_status: Least Concern
 article_images:
-- credit: frank60,Shutterstock
+- caption: 
+  credit: frank60,Shutterstock
   image_thumb: C63P4TUG-thumb.jpg
   image_small: C63P4TUG-720w.jpg
   image_large: C63P4TUG-1920w1280h.jpg
@@ -22,7 +23,8 @@ article_images:
   image_small: 2KXVQ4AA-720w.jpg
   image_large: 2KXVQ4AA-1920w1280h.jpg
   image_type: content_and_header
-- credit: Balkhi,Shutterstock
+- caption: 
+  credit: Balkhi,Shutterstock
   image_thumb: 9NSY8A11-thumb.jpg
   image_small: 9NSY8A11-720w.jpg
   image_large: 9NSY8A11-1920w1280h.jpg

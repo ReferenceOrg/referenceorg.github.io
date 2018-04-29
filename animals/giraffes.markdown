@@ -17,7 +17,8 @@ article_images:
   image_small: SDTTXHTL-720w.jpg
   image_large: SDTTXHTL-1920w1359h.jpg
   image_type: content_and_header
-- credit: Jane Rix,Shutterstock
+- caption: 
+  credit: Jane Rix,Shutterstock
   image_thumb: QDIA2OZF-thumb.jpg
   image_small: QDIA2OZF-720w.jpg
   image_large: QDIA2OZF-1920w1280h.jpg

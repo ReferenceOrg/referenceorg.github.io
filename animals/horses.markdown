@@ -17,7 +17,8 @@ article_images:
   image_small: AQ1XW8KS-720w.jpg
   image_large: AQ1XW8KS-1920w1280h.jpg
   image_type: content_and_header
-- credit: Callipso,Shutterstock
+- caption: 
+  credit: Callipso,Shutterstock
   image_thumb: ZK9NEGBG-thumb.jpg
   image_small: ZK9NEGBG-720w.jpg
   image_large: ZK9NEGBG-1920w1280h.jpg

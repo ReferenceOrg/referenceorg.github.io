@@ -23,9 +23,6 @@ article_images:
   image_small: 2GMZI2UA-720w.jpg
   image_large: 2GMZI2UA-1920w1285h.jpg
   image_type: content_and_header
-- image_thumb: PYGODUBQ-thumb.jpg
-  image_small: PYGODUBQ-720w.jpg
-  image_large: PYGODUBQ-1920w1440h.jpg
 - caption: Small green sea turtle (Chelonia mydas), also known as black (sea) turtle, or Pacific green turtle on his way to the sea on a beach in Tanzania, Africa, seconds after hatching from his egg.
   credit: Kathayut kongmaneea,Shutterstock
   image_thumb: GU1FZ0KZ-thumb.jpg
