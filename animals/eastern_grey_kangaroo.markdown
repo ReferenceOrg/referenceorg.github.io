@@ -4,6 +4,7 @@ title: Eastern Gray Kangaroo
 common_name: Eastern Gray Kangaroo
 scientific_name: Macropus giganteus
 type: Mammal
+subtype: Marsupials
 diet: Grass shoots, herbs, and leaves
 lifespan: 19 Years
 size: 5–6 ft (1.5–1.8 m)

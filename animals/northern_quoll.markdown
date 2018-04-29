@@ -4,6 +4,7 @@ title: Northern Quoll
 common_name: Northern Quoll
 scientific_name: Dasyurus hallucatus
 type: Mammal
+subtype: Marsupials
 diet: Insects, worms, small mammals, and reptiles
 lifespan: 2 Years
 size: 12 in (30 cm)
