@@ -1,6 +1,8 @@
 ---
 layout: animal_category
+title: Prosimians
+common_name: Prosimians
 type: Mammal
-red_list_status: Least Concern
+article_images: 
 ---
 

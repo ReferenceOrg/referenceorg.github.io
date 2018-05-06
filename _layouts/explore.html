@@ -126,8 +126,8 @@ layout: reference_white
 
 
 
-<div class="home">
-    <h4>Arthropod Categories Categories</h4>
+<div class="home ml-3">
+    <h4>Arthropod Categories</h4>
     {% assign sorted_pages = site.pages | sort:"title" %}
     {% for page in sorted_pages %}
     {% if page.type == "Arthropod" %}
@@ -136,17 +136,25 @@ layout: reference_white
     {% endfor %}
 </div>
 
-<div class="home">
+<div class="home ml-3">
     <h4>Mammal Categories</h4>
     {% assign sorted_pages = site.pages | sort:"title" %}
     {% for page in sorted_pages %}
-    {% if page.type == "Mammal" %}
-    <div><a href="{{ page.url }}">{{ page.title }}</a></div>
+    {% if page.type == "Mammal" and page.layout == "animal_category"  %}
+        {% assign subcategory = page.common_name %}
+        <div><a href="{{ page.url }}">{{ page.title }}</a> - {{ subcategory }}</div>
+
+            {% for page in sorted_pages %}
+                {% if page.type == "Mammal" and page.layout == "animal" and page.subtype ==  subcategory %}
+                    <div class="ml-5"><a href="{{ page.url }}">{{ page.title }}</a>   <a class="ml-2" href="https://localhost:44305/Editor/Edit?file={{ page.path }}">Edit</a>   </div>
+                {% endif %}
+            {% endfor %}
+
     {% endif %}
     {% endfor %}
 </div>
 
-<div class="home">
+<div class="home ml-3">
     <h4>Reptile Categories</h4>
     {% assign sorted_pages = site.pages | sort:"title" %}
     {% for page in sorted_pages %}
@@ -156,7 +164,7 @@ layout: reference_white
     {% endfor %}
 </div>
 
-<div class="home">
+<div class="home ml-3">
     <h4>Invertebrates Categories</h4>
     {% assign sorted_pages = site.pages | sort:"title" %}
     {% for page in sorted_pages %}
@@ -166,7 +174,7 @@ layout: reference_white
     {% endfor %}
 </div>
 
-<div class="home">
+<div class="home ml-3">
     <h4>Amphibian Categories</h4>
     {% assign sorted_pages = site.pages | sort:"title" %}
     {% for page in sorted_pages %}
@@ -176,7 +184,7 @@ layout: reference_white
     {% endfor %}
 </div>
 
-<div class="home">
+<div class="home ml-3">
     <h4>Bird Categories</h4>
     {% assign sorted_pages = site.pages | sort:"title" %}
     {% for page in sorted_pages %}
@@ -187,7 +195,7 @@ layout: reference_white
 </div>
 
 
-<div class="home">
+<div class="home ml-3">
     <h4>Fish Categories</h4>
     {% assign sorted_pages = site.pages | sort:"title" %}
     {% for page in sorted_pages %}
