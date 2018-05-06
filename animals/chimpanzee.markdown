@@ -1,6 +1,6 @@
 ---
 layout: animal
-title: Chimpanzee
+title: Chimpanzees
 common_name: Chimpanzee
 scientific_name: Pan troglodytes
 type: Mammal

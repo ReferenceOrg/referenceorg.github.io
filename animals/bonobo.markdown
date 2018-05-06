@@ -1,6 +1,6 @@
 ---
 layout: animal
-title: Bonobo
+title: Bonobos
 common_name: Bonobo
 scientific_name: Pan paniscus
 type: Mammal
