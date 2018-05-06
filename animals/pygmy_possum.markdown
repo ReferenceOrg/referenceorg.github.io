@@ -10,7 +10,13 @@ lifespan: 11-12 years for females and 5 years for males
 size: 6 to 12 cm (2 to 5 in)
 weight: 8 to 60 g (0.3 to 2.1 oz)
 red_list_status: Endangered
-article_images: 
+article_images:
+- caption: Western Pygmy Possum
+  credit: Nathan Dobbie, Shutterstock
+  image_thumb: TMANAI8F-thumb.jpg
+  image_small: TMANAI8F-720w.jpg
+  image_large: TMANAI8F-1920w1280h.jpg
+  image_type: content_and_header
 ---
 
 Pygmy Possum, common name for members of a family of mouse-sized marsupials native to New Guinea, Australia, and Tasmania. Most pygmy possums are tree-dwellers that live in rain forests, eucalyptus forests, and shrub lands. An exception to this is the mountain pygmy possum, which lives among boulders in alpine sites at elevations of up to 2230 m (7140 ft).
