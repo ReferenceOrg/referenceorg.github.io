@@ -1,6 +1,6 @@
 ---
 layout: animal
-title: Gorilla
+title: Gorillas
 common_name: Gorilla
 scientific_name: Gorilla gorilla
 type: Mammal
