@@ -11,7 +11,37 @@ size: 120 to 200 cm (47 to 79 in)
 weight: 130 kg (about 290 lb)
 red_list_status: Vulnerable
 distribution: North America
-article_images: 
+article_images:
+- caption: American Black Bear cub
+  credit: Dennis W Donohue,Shutterstock
+  image_thumb: C1QQ3H4Z-thumb.jpg
+  image_small: C1QQ3H4Z-720w.jpg
+  image_large: C1QQ3H4Z-1920w1280h.jpg
+  image_type: content_and_header
+- caption: Female Black Bear
+  credit: Wyatt Rivard,Shutterstock
+  image_thumb: 3TN2RZI6-thumb.jpg
+  image_small: 3TN2RZI6-720w.jpg
+  image_large: 3TN2RZI6-1920w1461h.jpg
+  image_type: content_and_header
+- caption: American black bear catching fish
+  credit: emperorcosar,Shutterstock
+  image_thumb: IQU3D7T4-thumb.jpg
+  image_small: IQU3D7T4-720w.jpg
+  image_large: IQU3D7T4-1920w1280h.jpg
+  image_type: content_and_header
+- caption: Black bear with her cubs walking through the woods
+  credit: Jim Cumming,Shutterstock
+  image_thumb: 2CZT9TEP-thumb.jpg
+  image_small: 2CZT9TEP-720w.jpg
+  image_large: 2CZT9TEP-1920w1358h.jpg
+  image_type: content_and_header
+- caption: American Black Bear
+  credit: JPL Designs,Shutterstock
+  image_thumb: 4KF6W09W-thumb.jpg
+  image_small: 4KF6W09W-720w.jpg
+  image_large: 4KF6W09W-1920w1280h.jpg
+  image_type: content_and_header
 ---
 
 American Black Bear, common name for a medium-sized bear of North America. The American black bear often has a white, star-shaped mark on its chest, and its color ranges from black to brown, cinnamon, beige, and even pure white. Its habitat ranges from the Tropics of Florida to the Arctic.
